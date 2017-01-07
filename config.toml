@@ -1,0 +1,23 @@
+languageCode = "de-de"
+title = "Sven Oloff"
+baseurl = "http://example.org/"
+
+[params]
+  DateForm = "Sam, Jan 7, 2017"
+  Description = "Beschreibung der Seite"
+  Author = "Sven Oloff"
+  email = "sven-oloff@gmx.de"
+  Ganalytics = "XX-00000000-0"
+
+[[menu.main]]
+  name = "home"
+  url = "/"
+  weight = -220
+[[menu.main]]
+  name = "Archiv"
+  url = "/music/"
+  weight = -180
+[[menu.main]]
+  name = "Foto"
+  url = "/Foto/"
+  weight = -200
