@@ -3,7 +3,7 @@ title = "Sven Oloff"
 baseurl = "http://example.org/"
 
 [params]
-  DateForm = "Sam, Jan 7, 2017"
+  DateForm = "0 1 Jan"
   Description = "Beschreibung der Seite"
   Author = "Sven Oloff"
   email = "sven-oloff@gmx.de"
@@ -12,12 +12,20 @@ baseurl = "http://example.org/"
 [[menu.main]]
   name = "home"
   url = "/"
-  weight = -220
+  weight = -260
+[[menu.main]]
+  name = "Musik"
+  url = "/music/"
+  weight = -240
 [[menu.main]]
   name = "Archiv"
-  url = "/music/"
-  weight = -180
+  url = "/archive/"
+  weight = -200
 [[menu.main]]
   name = "Foto"
-  url = "/Foto/"
-  weight = -200
+  url = "/foto/"
+  weight = -220
+[[menu.main]] 
+  name = "Am Rand"
+  url = "/misc/"
+  weight = -180
