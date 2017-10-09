@@ -1,11 +1,12 @@
 +++
-title = "Luftbefeuchter"
+title = "Ein effektiver Luftbefeuchter"
 draft = true
-date = "2017-10-08T13:53:10+02:00"
-description = "Beschreibung" 
-auther = "Sveni"
+date = 2017-10-08T19:20:04+02:00
+
+author = "Sveni"
 type = "post"
 tags = ["Idee"]
+image = "/Luftbefeuchter-1a.JPG"
 
 +++
 
@@ -17,4 +18,8 @@ Die ausgiebige Suche führt zu einer einfachen Lösung: Streichinstrumente könn
 
 Die folgenden Bilder dokumentieren eine sehr einfache, effektive und fast kostenlose Möglichkeit zur Regulierung der Luftfeuchte. Die offenporigen Hochlochziegel aus Ton nehmen sehr schnell viel Wasser auf und geben es langsam an die warme Luft, die von der Heizung durch die Löcher strömt, ab.
 
-![Ziegel](static/Luftbefeuchter-1a.JPG)
+![Ziegel](/Luftbefeuchter-1a.JPG#floatleft)
+
+description = "Beschreibung" 
+
+
