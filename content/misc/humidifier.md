@@ -17,4 +17,11 @@ Die ausgiebige Suche führt zu einer einfachen Lösung: Streichinstrumente könn
 
 Die folgenden Bilder dokumentieren eine sehr einfache, effektive und fast kostenlose Möglichkeit zur Regulierung der Luftfeuchte. Die offenporigen Hochlochziegel aus Ton nehmen sehr schnell viel Wasser auf und geben es langsam an die warme Luft, die von der Heizung durch die Löcher strömt, ab.
 
-![Ziegel](static/Luftbefeuchter-1a.JPG)
+![Ziegel1](/Luftbefeuchter-1a.JPG)
+in Funktion
+
+![Ziegel2](/Luftbefeuchter-2a.JPG)
+zum Schutz des Heizkörpers
+
+![Ziegel3](/Luftbefeuchter-3a.JPG)
+einmal wenden
