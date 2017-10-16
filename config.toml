@@ -1,12 +1,14 @@
-languageCode = "de-de"
+languageCode = "en-us"
 title = "Sven Oloff"
 baseurl = "http://example.org/"
+theme = "startbootstrap-clean-blog"
 
 [params]
-  DateForm = "0 1 Jan"
+  DateForm = "Mon, Jan 2, 2006"
   Description = "Beschreibung der Seite"
   Author = "Sven Oloff"
   email = "sven-oloff@gmx.de"
+  postSummariesFrontPage = 4 #Number of post summaries to show on front page, comment out to allow default(4)
   Ganalytics = "XX-00000000-0"
 
 [[menu.main]]
@@ -18,14 +20,14 @@ baseurl = "http://example.org/"
   url = "/music/"
   weight = -240
 [[menu.main]]
+  name = "Bilder"
+  url = "/foto/"
+  weight = -220
+[[menu.main]]
   name = "Archiv"
   url = "/archive/"
   weight = -200
-[[menu.main]]
-  name = "Foto"
-  url = "/foto/"
-  weight = -220
 [[menu.main]] 
-  name = "Am Rand"
+  name = "Am Rand"  
   url = "/misc/"
   weight = -180
