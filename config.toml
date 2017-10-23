@@ -5,7 +5,7 @@ theme = "startbootstrap-clean-blog"
 
 [params]
   DateForm = "Mon, Jan 2, 2006"
-  Description = "Beschreibung der Seite"
+  Description = "Violoncello"
   Author = "Sven Oloff"
   email = "sven-oloff@gmx.de"
   postSummariesFrontPage = 4 #Number of post summaries to show on front page, comment out to allow default(4)
@@ -25,7 +25,7 @@ theme = "startbootstrap-clean-blog"
   weight = -220
 [[menu.main]]
   name = "Archiv"
-  url = "/archive/"
+  url = "/post/"
   weight = -200
 [[menu.main]] 
   name = "Am Rand"  
