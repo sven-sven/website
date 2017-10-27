@@ -6,7 +6,6 @@ description = "einfach und effektiv"
 auther = "Sveni"
 type = "post"
 tags = ["Cello"]
-image = "/img/amrand.jpg"
 
 +++
 
