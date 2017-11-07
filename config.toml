@@ -25,7 +25,7 @@ theme = "startbootstrap-clean-blog"
   weight = -220
 [[menu.main]]
   name = "Archiv"
-  url = "/post/"
+  url = "/archive/"
   weight = -200
 [[menu.main]] 
   name = "Am Rand"  
