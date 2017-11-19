@@ -2,6 +2,7 @@ languageCode = "en-us"
 title = "Sven Oloff"
 baseurl = "http://example.org/"
 theme = "startbootstrap-clean-blog"
+publishDir = "docs"
 
 [params]
   DateForm = "Mon, Jan 2, 2006"

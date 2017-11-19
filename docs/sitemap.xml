@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/misc/</loc>
+    <lastmod>2017-10-22T22:08:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/archive/</loc>
+    <lastmod>2017-10-22T22:08:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/foto/</loc>
+    <lastmod>2017-10-22T22:08:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/cello/</loc>
+    <lastmod>2017-10-22T22:08:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/idee/</loc>
+    <lastmod>2017-10-22T22:08:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/music/</loc>
+    <lastmod>2017-10-22T22:08:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2017-10-22T22:08:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/about/about/</loc>
+    <lastmod>2017-10-14T10:05:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/misc/humidifier/</loc>
+    <lastmod>2017-10-08T13:53:10+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/foto/foto/</loc>
+    <lastmod>2017-01-07T17:11:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/music/first/</loc>
+    <lastmod>2017-01-07T16:21:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/archive/alt/</loc>
+    <lastmod>2000-10-13T22:41:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/about/</loc>
+    <lastmod>2017-10-14T10:05:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/music/</loc>
+    <lastmod>2017-01-07T16:21:57+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2017-10-22T22:08:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
