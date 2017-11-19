@@ -1,34 +1,101 @@
-languageCode = "en-us"
+# languageCode = "en-us"
+DefaultContentLanguage = "de"
+defaultContentLanguageInSubdir = true
 title = "Sven Oloff"
+description = "Violoncello"
 baseurl = "https://sven-sven.github.io/website/"
 theme = "startbootstrap-clean-blog"
 publishDir = "docs"
 
 [params]
   DateForm = "Mon, Jan 2, 2006"
-  Description = "Violoncello"
+  Description = "Beschreibung der Seite"
   Author = "Sven Oloff"
-  email = "sven-oloff@gmx.de"
+  email = ""
   postSummariesFrontPage = 4 #Number of post summaries to show on front page, comment out to allow default(4)
-  Ganalytics = "XX-00000000-0"
+  googleAnalytics = "UA-109513918-1"
+  Copyright = "C"
+  
+[[params.footer]]
+  title = "Impressum"
+  url = "about/"  
+[[params.footer]]
+  title = "About"
+  url = "about/"
+[[params.footer]]
+  title = "Contact"
+  url = "/contact/"
 
-[[menu.main]]
-  name = "home"
-  url = "/"
-  weight = -260
-[[menu.main]]
+[Languages] 
+[Languages.de]
+weight = 1
+[[Languages.de.menu.main]]
+  name = "Start"
+  url = "/de/"
+  weight = 1
+[[Languages.de.menu.main]]
   name = "Musik"
-  url = "/music/"
-  weight = -240
-[[menu.main]]
+  url = "/de/music/"
+  weight = 2
+[[Languages.de.menu.main]]
   name = "Bilder"
-  url = "/foto/"
-  weight = -220
-[[menu.main]]
+  url = "/de/photo/"
+  weight = 3
+[[Languages.de.menu.main]]
   name = "Archiv"
-  url = "/archive/"
-  weight = -200
-[[menu.main]] 
+  url = "/de/archive/"
+  weight = 4
+[[Languages.de.menu.main]] 
   name = "Am Rand"  
-  url = "/misc/"
-  weight = -180
+  url = "/de/misc/"
+  weight = 5
+
+
+[Languages.en]
+weight = 3
+[Languages.en.params]
+[[Languages.en.menu.main]]
+  name = "Home"
+  url = "/en/"
+  weight = 1
+[[Languages.en.menu.main]]
+  name = "Music"
+  url = "/en/music/"
+  weight = 2
+[[Languages.en.menu.main]]
+  name = "Photos"
+  url = "/en/photo/"
+  weight = 3
+[[Languages.en.menu.main]]
+  name = "Archive"
+  url = "/en/archive/"
+  weight = 4
+[[Languages.en.menu.main]] 
+  name = "Side Note"  
+  url = "/en/misc/"
+  weight = 5
+
+[Languages.fr]
+copyright = "Tout est à moi"
+weight = 2
+[Languages.fr.params]
+[[Languages.fr.menu.main]]
+  name = "Entree"
+  url = "/fr/"
+  weight = 1
+[[Languages.fr.menu.main]]
+  name = "Music"
+  url = "/fr/music/"
+  weight = 2
+[[Languages.fr.menu.main]]
+  name = "Photos"
+  url = "/fr/photo/"
+  weight = 3
+[[Languages.fr.menu.main]]
+  name = "Archive"
+  url = "/fr/archive/"
+  weight = 4
+[[Languages.fr.menu.main]] 
+  name = "Side Note"  
+  url = "/fr/misc/"
+  weight = 5
