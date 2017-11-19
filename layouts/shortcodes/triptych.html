@@ -1,0 +1,27 @@
+<style>
+    .img-fluidsv {
+      max-width: 32%;
+      height: auto;
+    }
+
+</style>
+
+<figure>
+    
+  <img src="{{ $.Site.BaseURL}}{{ .Get `src1` }}" {{ with .Get `alt1`}}alt="{{.}}"{{ end }} class="img-fluidsv" />
+  
+  <img src="{{ $.Site.BaseURL}}{{ .Get `src2` }}" {{ with .Get `alt2`}}alt="{{.}}"{{ end }} class="img-fluidsv" />
+  <img src="{{ $.Site.BaseURL}}{{ .Get `src3` }}" {{ with .Get `alt3`}}alt="{{.}}"{{ end }} class="img-fluidsv" />
+   
+  {{ if or (or (.Get "title") (.Get "caption")) (.Get "attr")}}
+    <figcaption>{{ if isset .Params "title" }}
+        <class style="font-size: 0.8em;"><b>{{ .Get "title" }}</b>{{ end }}
+        {{ if or (.Get "caption") (.Get "attr")}}<small>
+        {{ .Get "caption" }}</small>
+        {{ with .Get "attrlink"}}<a href="{{.}}"> {{ end }}
+            {{ .Get "attr" }}
+        {{ if .Get "attrlink"}}</a> {{ end }}
+        </class> {{ end }}
+    </figcaption>
+  {{ end }}
+</figure>

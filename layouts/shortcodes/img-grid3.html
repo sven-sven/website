@@ -1,0 +1,19 @@
+<div class="row">
+    <div class="col-md-4 grid-img">
+        <a href="#" data-toggle="modal" onclick='javascript:showModal("{{ $.Site.BaseURL}}{{ .Get `src1` }}")' >
+            <img src="{{ $.Site.BaseURL}}{{ .Get "src1" }}"  class="img-responsive" {{ with `alt1`}}alt="{{.}}"{{ end }}>
+        </a>
+    </div>
+    <div class="col-md-4 grid-img">
+        <a href='javascript:void(null)' onclick='javascript:showModal("{{ $.Site.BaseURL}}{{ .Get `src2` }}")' >
+            <img src="{{ $.Site.BaseURL}}{{ .Get "src2" }}"  class="img-responsive" {{ with `alt2`}}alt="{{.}}"{{ end }}>
+        </a>
+    </div>
+    <div class="col-md-4 grid-img">
+        <a href="#" data-toggle="modal" onclick='javascript:showModal("{{ $.Site.BaseURL}}{{ .Get `src3` }}")' >
+            <img src="{{ $.Site.BaseURL}}{{ .Get "src3" }}"  class="img-responsive" {{ with `alt3`}}alt="{{.}}"{{ end }}>
+        </a>
+    </div>
+</div>
+
+
