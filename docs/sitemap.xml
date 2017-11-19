@@ -3,84 +3,84 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/misc/</loc>
+    <loc>https://sven-sven.github.io/website/misc/</loc>
     <lastmod>2017-10-22T22:08:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/archive/</loc>
+    <loc>https://sven-sven.github.io/website/archive/</loc>
     <lastmod>2017-10-22T22:08:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/foto/</loc>
+    <loc>https://sven-sven.github.io/website/foto/</loc>
     <lastmod>2017-10-22T22:08:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/cello/</loc>
+    <loc>https://sven-sven.github.io/website/tags/cello/</loc>
     <lastmod>2017-10-22T22:08:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/idee/</loc>
+    <loc>https://sven-sven.github.io/website/tags/idee/</loc>
     <lastmod>2017-10-22T22:08:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/music/</loc>
+    <loc>https://sven-sven.github.io/website/music/</loc>
     <lastmod>2017-10-22T22:08:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://sven-sven.github.io/website/</loc>
     <lastmod>2017-10-22T22:08:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/about/</loc>
+    <loc>https://sven-sven.github.io/website/about/about/</loc>
     <lastmod>2017-10-14T10:05:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/misc/humidifier/</loc>
+    <loc>https://sven-sven.github.io/website/misc/humidifier/</loc>
     <lastmod>2017-10-08T13:53:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/foto/foto/</loc>
+    <loc>https://sven-sven.github.io/website/foto/foto/</loc>
     <lastmod>2017-01-07T17:11:02+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/music/first/</loc>
+    <loc>https://sven-sven.github.io/website/music/first/</loc>
     <lastmod>2017-01-07T16:21:57+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/archive/alt/</loc>
+    <loc>https://sven-sven.github.io/website/archive/alt/</loc>
     <lastmod>2000-10-13T22:41:36+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://sven-sven.github.io/website/about/</loc>
     <lastmod>2017-10-14T10:05:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://sven-sven.github.io/website/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/music/</loc>
+    <loc>https://sven-sven.github.io/website/categories/music/</loc>
     <lastmod>2017-01-07T16:21:57+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://sven-sven.github.io/website/tags/</loc>
     <lastmod>2017-10-22T22:08:24+02:00</lastmod>
     <priority>0</priority>
   </url>

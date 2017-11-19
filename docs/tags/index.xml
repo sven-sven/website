@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sven Oloff</title>
-    <link>http://example.org/tags/</link>
+    <link>https://sven-sven.github.io/website/tags/</link>
     <description>Recent content in Tags on Sven Oloff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Oct 2017 22:08:24 +0200</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sven-sven.github.io/website/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cello</title>
-      <link>http://example.org/tags/cello/</link>
+      <link>https://sven-sven.github.io/website/tags/cello/</link>
       <pubDate>Sun, 22 Oct 2017 22:08:24 +0200</pubDate>
       
-      <guid>http://example.org/tags/cello/</guid>
+      <guid>https://sven-sven.github.io/website/tags/cello/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Idee</title>
-      <link>http://example.org/tags/idee/</link>
+      <link>https://sven-sven.github.io/website/tags/idee/</link>
       <pubDate>Sun, 22 Oct 2017 22:08:24 +0200</pubDate>
       
-      <guid>http://example.org/tags/idee/</guid>
+      <guid>https://sven-sven.github.io/website/tags/idee/</guid>
       <description></description>
     </item>
     

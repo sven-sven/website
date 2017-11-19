@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Sven Oloff"
-baseurl = "http://example.org/"
+baseurl = "https://sven-sven.github.io/website/"
 theme = "startbootstrap-clean-blog"
 publishDir = "docs"
 
