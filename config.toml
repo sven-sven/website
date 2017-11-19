@@ -30,7 +30,7 @@ publishDir = "docs"
 [Languages.de]
 weight = 1
 [[Languages.de.menu.main]]
-  name = "Start"
+  name = "home"
   url = "/de/"
   weight = 1
 [[Languages.de.menu.main]]
