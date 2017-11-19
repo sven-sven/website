@@ -1,88 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://sven-sven.github.io/website/misc/</loc>
-    <lastmod>2017-10-22T22:08:24+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sven-sven.github.io/website/archive/</loc>
-    <lastmod>2017-10-22T22:08:24+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sven-sven.github.io/website/foto/</loc>
-    <lastmod>2017-10-22T22:08:24+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sven-sven.github.io/website/tags/cello/</loc>
-    <lastmod>2017-10-22T22:08:24+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sven-sven.github.io/website/tags/idee/</loc>
-    <lastmod>2017-10-22T22:08:24+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sven-sven.github.io/website/music/</loc>
-    <lastmod>2017-10-22T22:08:24+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sven-sven.github.io/website/</loc>
-    <lastmod>2017-10-22T22:08:24+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sven-sven.github.io/website/about/about/</loc>
-    <lastmod>2017-10-14T10:05:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sven-sven.github.io/website/misc/humidifier/</loc>
-    <lastmod>2017-10-08T13:53:10+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sven-sven.github.io/website/foto/foto/</loc>
-    <lastmod>2017-01-07T17:11:02+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sven-sven.github.io/website/music/first/</loc>
-    <lastmod>2017-01-07T16:21:57+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sven-sven.github.io/website/archive/alt/</loc>
-    <lastmod>2000-10-13T22:41:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sven-sven.github.io/website/about/</loc>
-    <lastmod>2017-10-14T10:05:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sven-sven.github.io/website/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sven-sven.github.io/website/categories/music/</loc>
-    <lastmod>2017-01-07T16:21:57+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sven-sven.github.io/website/tags/</loc>
-    <lastmod>2017-10-22T22:08:24+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>https://sven-sven.github.io/website/de/sitemap.xml</loc>
+		
+	   	<lastmod>2017-10-14T10:05:00+02:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://sven-sven.github.io/website/fr/sitemap.xml</loc>
+		
+	   	<lastmod>2017-10-14T10:05:00+02:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://sven-sven.github.io/website/en/sitemap.xml</loc>
+		
+	   	<lastmod>2017-10-14T10:05:00+02:00</lastmod>
+		
+	</sitemap>
+	
+</sitemapindex>

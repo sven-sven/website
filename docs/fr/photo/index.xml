@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bilder on Sven Oloff</title>
+    <link>https://sven-sven.github.io/website/fr/photo/</link>
+    <description>Recent content in Bilder on Sven Oloff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Tout est à moi</copyright>
+    <lastBuildDate>Sun, 22 Oct 2017 22:08:24 +0200</lastBuildDate>
+    
+	<atom:link href="https://sven-sven.github.io/website/fr/photo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jahreszeiten</title>
+      <link>https://sven-sven.github.io/website/fr/photo/fourseasons/</link>
+      <pubDate>Sun, 08 Oct 2017 13:53:10 +0200</pubDate>
+      
+      <guid>https://sven-sven.github.io/website/fr/photo/fourseasons/</guid>
+      <description>Vor dem Fühling:           Vor dem Sommer:           Sommer           Vor dem Winter &amp;hellip;           Zum Schluss   * { border-radius: 0 !important; } .grid-img { padding: 10px; } .modal-backdrop { background-color: #fffff0; opacity: .</description>
+    </item>
+    
+  </channel>
+</rss>

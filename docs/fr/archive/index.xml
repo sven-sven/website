@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archiv on Sven Oloff</title>
+    <link>https://sven-sven.github.io/website/fr/archive/</link>
+    <description>Recent content in Archiv on Sven Oloff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Tout est à moi</copyright>
+    <lastBuildDate>Sun, 22 Oct 2017 22:08:24 +0200</lastBuildDate>
+    
+	<atom:link href="https://sven-sven.github.io/website/fr/archive/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Alt</title>
+      <link>https://sven-sven.github.io/website/fr/archive/alt/</link>
+      <pubDate>Fri, 13 Oct 2000 22:41:36 +0200</pubDate>
+      
+      <guid>https://sven-sven.github.io/website/fr/archive/alt/</guid>
+      <description>alter Beitrag</description>
+    </item>
+    
+  </channel>
+</rss>

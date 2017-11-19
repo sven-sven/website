@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sven Oloff</title>
+    <link>https://sven-sven.github.io/website/fr/</link>
+    <description>Recent content on Sven Oloff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Tout est à moi</copyright>
+    <lastBuildDate>Sun, 22 Oct 2017 22:08:24 +0200</lastBuildDate>
+    
+	<atom:link href="https://sven-sven.github.io/website/fr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sven</title>
+      <link>https://sven-sven.github.io/website/fr/about/about/</link>
+      <pubDate>Sat, 14 Oct 2017 10:05:00 +0200</pubDate>
+      
+      <guid>https://sven-sven.github.io/website/fr/about/about/</guid>
+      <description>Violoncello zu spielen ist mein Beruf. Zuerst als Lehrer, was mir durch die Arbeit mit den Schülern die Musik erst richtig nahegebracht hat. Dann wissenschaftlich mit einer Promotion zur menschlichen Atmung zwischen Pädagogik, Arbeitswissenschaft und Musik. Jetzt seit vielen Jahren als Spieler.
+Ich suche Töne - solche, die schon bekannt sind, am liebsten von Bach - und neue von mir. Dabei sind es nie die lauten Klänge, die mich interessieren, weder im Barock noch im Experimentellen.</description>
+    </item>
+    
+    <item>
+      <title>Jahreszeiten</title>
+      <link>https://sven-sven.github.io/website/fr/photo/fourseasons/</link>
+      <pubDate>Sun, 08 Oct 2017 13:53:10 +0200</pubDate>
+      
+      <guid>https://sven-sven.github.io/website/fr/photo/fourseasons/</guid>
+      <description>Vor dem Fühling:           Vor dem Sommer:           Sommer           Vor dem Winter &amp;hellip;           Zum Schluss   * { border-radius: 0 !important; } .grid-img { padding: 10px; } .modal-backdrop { background-color: #fffff0; opacity: .</description>
+    </item>
+    
+    <item>
+      <title>Luftbefeuchter</title>
+      <link>https://sven-sven.github.io/website/fr/misc/humidifier/</link>
+      <pubDate>Sun, 08 Oct 2017 13:53:10 +0200</pubDate>
+      
+      <guid>https://sven-sven.github.io/website/fr/misc/humidifier/</guid>
+      <description>Der Proberaum ist warm, die Ideen gut, das Cello gestimmt - an die Arbeit. Doch aus dem Instrument kommt nichts als krankes Krächzen. Kein guter Tag, nicht in Form? Nichts geht …
+Die ausgiebige Suche führt zu einer einfachen Lösung: Streichinstrumente können extrem empfindlich sein, was die relative Luftfeuchte anbetrifft. Die ungefähre, zeitweilige Kontrolle und Korrektur der Luftfeuchte reicht dann nicht aus. Die Luft muss, vor allem beim Heizen, befeuchtet werden.</description>
+    </item>
+    
+    <item>
+      <title>Sarabande</title>
+      <link>https://sven-sven.github.io/website/fr/music/first/</link>
+      <pubDate>Sat, 07 Jan 2017 16:21:57 +0100</pubDate>
+      
+      <guid>https://sven-sven.github.io/website/fr/music/first/</guid>
+      <description>6 Sarabanden für Violoncello
+hikhfk ghhj hnjmmk</description>
+    </item>
+    
+    <item>
+      <title>Alt</title>
+      <link>https://sven-sven.github.io/website/fr/archive/alt/</link>
+      <pubDate>Fri, 13 Oct 2000 22:41:36 +0200</pubDate>
+      
+      <guid>https://sven-sven.github.io/website/fr/archive/alt/</guid>
+      <description>alter Beitrag</description>
+    </item>
+    
+  </channel>
+</rss>
