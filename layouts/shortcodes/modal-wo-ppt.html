@@ -1,0 +1,40 @@
+<style>
+    * {
+        border-radius: 0 !important;
+    }
+    .grid-img {
+        /* background: black; */
+        padding: 10px;
+    }
+    .modal-backdrop {
+        background-color: #fffff0;
+        opacity: .95 !important;
+    }
+    .modal-content {
+        width: 100%;
+        background: #ffffff;
+        padding: 0px;
+        margin: auto;
+    }
+}
+</style>
+
+<div id="showModal" class="modal fade pop-up-1" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel-1" aria-hidden="true" >
+    <div class="modal-dialog modal-lg">
+      <div class="modal-content">
+        <div class="modal-body">
+            <!-- will be filled by script -->
+        </div>
+      </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal mixer image -->
+
+<script>
+function showModal(imgUrl) {
+    var attr1 = ' class="img-responsive center-block"';
+    var attr2 = ' style="padding: 0px; margin: 0px; vertical-align: middle;"';
+    var img= '<img src="' + imgUrl + '"'+ attr1 + + attr2 + '">';
+    $('#showModal .modal-body').html(img);
+    $('#showModal').modal('show');
+}
+</script>
