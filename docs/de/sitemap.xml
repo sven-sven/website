@@ -163,11 +163,6 @@
   </url>
   
   <url>
-    <loc>https://sven-sven.github.io/website/de/photo/fourseasons-new/</loc>
-    <lastmod>2017-10-08T13:53:10+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sven-sven.github.io/website/de/misc/humidifier/</loc>
     <lastmod>2017-10-08T13:53:10+02:00</lastmod>
     <xhtml:link
@@ -306,27 +301,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://sven-sven.github.io/website/de/categories/culture/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://sven-sven.github.io/website/de/tags/picture/</loc>
-    <lastmod>2017-10-08T13:53:10+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://sven-sven.github.io/website/fr/tags/picture/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://sven-sven.github.io/website/en/tags/picture/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://sven-sven.github.io/website/de/tags/picture/"
                 />
   </url>
   
