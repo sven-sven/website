@@ -3,7 +3,7 @@ title = "Luftbefeuchter"
 draft = false
 date = "2017-10-08T13:53:10+02:00"
 description = "einfach und effektiv" 
-auther = "Sveni"
+auther = "Sven"
 type = "post"
 tags = ["Cello"]
 
@@ -18,16 +18,16 @@ Die folgenden Bilder dokumentieren eine sehr einfache, effektive und fast kosten
 <br>
 <br>
 in Funktion:
-{{< figure class="image thumbnail" src="/img/Luftbefeuchter-1a.jpg" >}}
+{{< figure class="image thumbnail" src="/img/humidifier/Luftbefeuchter-1c.jpg" >}}
 
 <br>
 <br>
 zum Schutz des Heizkörpers:
-{{< figure class="image thumbnail" src="/img/Luftbefeuchter-2a.jpg" >}}
+{{< figure class="image thumbnail" src="/img/humidifier/Luftbefeuchter-2c.jpg" >}}
 
 <br>
 <br>
 einmal wenden:
-{{< figure class="image thumbnail" src="/img/Luftbefeuchter-3a.jpg" >}}
+{{< figure class="image thumbnail" src="/img/humidifier/Luftbefeuchter-3c.jpg" >}}
 
 
