@@ -20,15 +20,15 @@ tags: ["Picture"]
 Der Tag vor dem Frühling. Wenn das Licht schon kraftvoll ist und alles in der Natur noch wie gebleicht ist, scheint es nur eine Frage des Momentes zu sein, dass das erste Blatt erscheint. Nicht im ersten Anzeichen des Frühjahrs liegt das Besondere, sondern in der Vorahnung.  
 {{< img-grid2
     src1="/img/beforeseasons/b-wurzeln.jpg"
-        alt1="Luftbefeuchter für Holzinstrumente: Hochlochziegel auf der Heizung" 
+        alt1="" 
     src2="/img/beforeseasons/c-winterbaum.jpg" 
-        alt2="Luftbefeuchter für Holzinstrumente: Dünne Rundhölzer schützen den Heizkörper." 
+        alt2="" 
 >}}
 {{< img-grid2
     src1="/img/beforeseasons/d-wintergras.jpg"
-        alt1="Luftbefeuchter für Holzinstrumente: Hochlochziegel auf der Heizung" 
+        alt1="" 
     src2="/img/beforeseasons/e-winterschilf.jpg" 
-        alt2="Luftbefeuchter für Holzinstrumente: Dünne Rundhölzer schützen den Heizkörper." 
+        alt2="" 
 >}} 
 
 <br>
@@ -37,15 +37,15 @@ Der Tag vor dem Frühling. Wenn das Licht schon kraftvoll ist und alles in der N
 Es ist die Idee, die wirkt. Sie sichtbar zu machen heißt, das Unsichtbare darzustellen. Noch ist Licht im Wald, bevor sich das Blätterdach schließt. Ein Nebel aus Gras und kommende Wärme.
 {{< img-grid2
     src1="/img/beforeseasons/f-frühlingsacker.jpg"
-        alt1="Luftbefeuchter für Holzinstrumente: Hochlochziegel auf der Heizung" 
+        alt1="" 
     src2="/img/beforeseasons/g-waldwiese.jpg" 
-        alt2="Luftbefeuchter für Holzinstrumente: Dünne Rundhölzer schützen den Heizkörper." 
+        alt2="" 
 >}}
 {{< img-grid2
     src1="/img/beforeseasons/h-ähren.jpg"
-        alt1="Luftbefeuchter für Holzinstrumente: Hochlochziegel auf der Heizung" 
-    src2="/img/beforeseasons/i-tau.jpg" 
-        alt2="Luftbefeuchter für Holzinstrumente: Dünne Rundhölzer schützen den Heizkörper." 
+        alt1="" 
+    src2="/img/beforeseasons/i-tau.jpg"
+        alt2="" 
 >}}
 
 
@@ -55,15 +55,15 @@ Es ist die Idee, die wirkt. Sie sichtbar zu machen heißt, das Unsichtbare darzu
 In der Lethargie des Sommers, alles grün, entsteht die Erwartung von Farbe und Dynamik des Herbstes.
 {{< img-grid2
     src1="/img/beforeseasons/j-teich1.jpg"
-        alt1="Luftbefeuchter für Holzinstrumente: Hochlochziegel auf der Heizung" 
+        alt1="" 
     src2="/img/beforeseasons/k-teich2.jpg" 
-        alt2="Luftbefeuchter für Holzinstrumente: Dünne Rundhölzer schützen den Heizkörper." 
+        alt2="" 
 >}}
 {{< img-grid2
     src1="/img/beforeseasons/l-teich3.jpg"
-        alt1="Luftbefeuchter für Holzinstrumente: Hochlochziegel auf der Heizung" 
+        alt1="" 
     src2="/img/beforeseasons/n-acker2.jpg" 
-        alt2="Luftbefeuchter für Holzinstrumente: Dünne Rundhölzer schützen den Heizkörper." 
+        alt2="" 
 >}}
 
 <br>
@@ -72,15 +72,15 @@ In der Lethargie des Sommers, alles grün, entsteht die Erwartung von Farbe und 
 Schließlich schwindet das Licht und in der Spiegelung legen sich die Perspektiven voraus und zurück übereinander.
 {{< img-grid2
     src1="/img/beforeseasons/o-dämmerung1.jpg"
-        alt1="Luftbefeuchter für Holzinstrumente: Hochlochziegel auf der Heizung" 
+        alt1="" 
     src2="/img/beforeseasons/p-dämmerung2.jpg" 
-        alt2="Luftbefeuchter für Holzinstrumente: Dünne Rundhölzer schützen den Heizkörper." 
+        alt2="" 
 >}}
 {{< img-grid2
     src1="/img/beforeseasons/q-blätter.jpg"
-        alt1="Luftbefeuchter für Holzinstrumente: Hochlochziegel auf der Heizung" 
+        alt1="" 
     src2="/img/beforeseasons/r-brücke.jpg" 
-        alt2="Luftbefeuchter für Holzinstrumente: Dünne Rundhölzer schützen den Heizkörper." 
+        alt2="" 
 >}}
 
 <br>
