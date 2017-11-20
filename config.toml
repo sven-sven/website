@@ -26,6 +26,7 @@ publishDir = "docs"
   title = "Contact"
   url = "/contact/"
 
+
 [Languages] 
 [Languages.de]
 weight = 1

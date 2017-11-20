@@ -5,7 +5,7 @@ date: "2017-10-08T13:53:10+02:00"
 description: "Die vier Jahreszeiten" 
 auther: "Sveni"
 type: "post"
-tags: ["Picture"]
+tags: ["idee"]
 
 ---
 {{< image class="image thumbnail" src="/img/humidifier/Luftbefeuchter-2a.jpg" alt="">}}

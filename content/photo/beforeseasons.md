@@ -5,7 +5,7 @@ date: "2017-10-08T13:53:10+02:00"
 description: "oder das Prinzip der Idee" 
 auther: "Sven"
 type: "post"
-tags: ["Picture"]
+tags: ["idee"]
 
 ---
 
