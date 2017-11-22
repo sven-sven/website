@@ -54,13 +54,13 @@ Es ist die Idee, die wirkt. Sie sichtbar zu machen heißt, das Unsichtbare darzu
 <br>
 In der Lethargie des Sommers, alles grün, entsteht die Erwartung von Farbe und Dynamik des Herbstes.
 {{< img-grid2
-    src1="/img/beforeseasons/j-teich1.jpg"
+    src1="/img/beforeseasons/k-teich2.jpg"
         alt1="" 
-    src2="/img/beforeseasons/k-teich2.jpg" 
+    src2="/img/beforeseasons/l-teich3.jpg" 
         alt2="" 
 >}}
 {{< img-grid2
-    src1="/img/beforeseasons/l-teich3.jpg"
+    src1="/img/beforeseasons/m-acker1.jpg"
         alt1="" 
     src2="/img/beforeseasons/n-acker2.jpg" 
         alt2="" 
@@ -86,7 +86,7 @@ Schließlich schwindet das Licht und in der Spiegelung legen sich die Perspektiv
 <br>
 <br>
 <br>
-Ein ausführlicherer Text ist im Artikel [die Idee]({{< ref "/archive/idee-denken.md" >}}) zu finden.
+Ein ausführlicherer Text zur Fotoreihe ist im Artikel [die Idee]({{< ref "/archive/idee-denken.md" >}}) zu finden.
 {{< image class="image thumbnail" src="/img/beforeseasons/s-rhein.jpg" >}}
 
 
