@@ -1,5 +1,5 @@
 #!/bin/bash
-cd data/images
+cd work-img
 for i in ./*.jpg
 do
     if [ ! -d "./watermarked" ]; then mkdir "./watermarked"; fi
