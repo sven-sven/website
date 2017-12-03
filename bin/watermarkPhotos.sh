@@ -10,8 +10,8 @@ do
     "$i" \
     -set option:filter:filter Lanczos \
     -set option:filter:blur 0.8 \
-    -quality 80 \
-    ../copyright/copyright_sven.png -gravity SouthEast -geometry +30 -composite \
+    -quality 100 \
+    ./copyright/copyright_sven.png -gravity SouthEast -geometry +30 -composite \
     "./watermarked/$filename"
 done
 #    -resize 500x500 \
