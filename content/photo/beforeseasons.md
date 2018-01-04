@@ -79,7 +79,7 @@ Schließlich schwindet das Licht und in der Spiegelung legen sich die Perspektiv
 {{< img-grid2
     src1="/img/beforeseasons/q-blätter.jpg"
         alt1="" 
-    src2="/img/beforeseasons/r-brücke-h.jpg" 
+    src2="/img/beforeseasons/r-bridge--small.jpg" 
         alt2="" 
 >}}
 
