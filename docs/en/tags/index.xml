@@ -5,7 +5,6 @@
     <link>https://sven-sven.github.io/website/en/tags/</link>
     <description>Recent content in Tags on Sven Oloff</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>C</copyright>
     <lastBuildDate>Sun, 22 Oct 2017 22:08:24 +0200</lastBuildDate>
     
 	<atom:link href="https://sven-sven.github.io/website/en/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -26,6 +25,15 @@
       <pubDate>Sun, 22 Oct 2017 22:08:24 +0200</pubDate>
       
       <guid>https://sven-sven.github.io/website/en/tags/idee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Idea</title>
+      <link>https://sven-sven.github.io/website/en/tags/idea/</link>
+      <pubDate>Sun, 08 Oct 2017 13:53:10 +0200</pubDate>
+      
+      <guid>https://sven-sven.github.io/website/en/tags/idea/</guid>
       <description></description>
     </item>
     
