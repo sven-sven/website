@@ -44,7 +44,7 @@ Es ist die Idee, die wirkt. Sie sichtbar zu machen heißt, das Unsichtbare darzu
 {{< img-grid2
     src1="/img/beforeseasons/h-ähren.jpg"
         alt1="" 
-    src2="/img/beforeseasons/i-tau.jpg"
+    src2="/img/beforeseasons/i-tau-h.jpg"
         alt2="" 
 >}}
 
@@ -79,7 +79,7 @@ Schließlich schwindet das Licht und in der Spiegelung legen sich die Perspektiv
 {{< img-grid2
     src1="/img/beforeseasons/q-blätter.jpg"
         alt1="" 
-    src2="/img/beforeseasons/r-brücke.jpg" 
+    src2="/img/beforeseasons/r-brücke-h.jpg" 
         alt2="" 
 >}}
 
