@@ -18,53 +18,72 @@ $(function() {
             // get values from FORM
             var name = $("input#name").val();
             var email = $("input#email").val();
-            var phone = $("input#phone").val();
             var message = $("textarea#message").val();
+	    var recaptcha = $("#g-recaptcha-response").val();
+	    var formurl = $("input#formurl").val();
             var firstName = name; // For Success/Failure Message
             // Check for white space in name for Success/Fail message
             if (firstName.indexOf(' ') >= 0) {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "https://formspree.io/benoit.benedetti@gmail.com",
+		url: formurl,
                 method: "POST",
                 data: {
-                    name: name,
-                    phone: phone,
-                    email: email,
-                    message: message
+		    name: name,
+		    email: email,
+		    message: message,
+		    recaptcha: recaptcha
                 },
-                dataType: "json",
+                dataType: "JSON",
                 cache: false,
-                success: function() {
-                    // Success message
-                    $('#success').html("<div class='alert alert-success'>");
-                    $('#success > .alert-success').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
-                        .append("</button>");
-                    $('#success > .alert-success')
-                        .append("<strong>Your message has been sent. </strong>");
-                    $('#success > .alert-success')
-                        .append('</div>');
-
-                    //clear all fields
-                    $('#contactForm').trigger("reset");
-                },
-                error: function() {
-                    // Fail message
-                    $('#success').html("<div class='alert alert-danger'>");
-                    $('#success > .alert-danger').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
-                        .append("</button>");
-                    $('#success > .alert-danger').append("<strong>Sorry " + firstName + ", it seems that my mail server is not responding. Please try again later!");
-                    $('#success > .alert-danger').append('</div>');
-                    //clear all fields
-                    $('#contactForm').trigger("reset");
-                },
-            })
+	        statusCode: {
+        	    0: function(jqXHR, textStatus, errorThrown) {
+               	    	returnStatus(false)
+		    },
+                    200: function(payload, textStatus, errorThrown) {
+			status = payload.result;
+			if (status === "success") {
+			    returnStatus(true)
+			} else {
+			    var e = payload.error
+			    returnStatus(false, e)
+			}
+                    }
+		}
+           })        
         },
+
         filter: function() {
             return $(this).is(":visible");
         },
     });
+  
+    function returnStatus(status, e) {
+        if (status) {
+            $('#success').html("<div class='alert alert-success'>");
+            $('#success > .alert-success').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
+	        .append("</button");
+	    $('#success > .alert-success')
+	    .append("<strong>Your message has been sent. </strong>");
+	    $('#success > .alert-success').append('</div>');
+        } else {
+            // Fail message
+            if (e && e.message === '193') {
+		var eText = "<strong>reCaptcha verification failed.</strong>"
+	    } else {
+		var eText = "<strong>Sorry, it seems that my mail server is not responding. Please try again later!</strong>"
+	    };
+
+            $('#success').html("<div class='alert alert-danger'>");
+            $('#success > .alert-danger').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
+	        .append("</button>");
+            $('#success > .alert-danger').append(eText);
+            $('#success > .alert-danger').append('</div>');
+        }       
+        //clear all fields
+        $('#contactForm').trigger("reset");
+    }
 
     $("a[data-toggle=\"tab\"]").click(function(e) {
         e.preventDefault();

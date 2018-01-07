@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Idea on Sven Oloff</title>
+    <link>https://sven-sven.github.io/website/fr/tags/idea/</link>
+    <description>Recent content in Idea on Sven Oloff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Tout est à moi</copyright>
+    <lastBuildDate>Thu, 04 Jan 2018 13:45:42 +0100</lastBuildDate>
+    
+	<atom:link href="https://sven-sven.github.io/website/fr/tags/idea/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Idee Denken</title>
+      <link>https://sven-sven.github.io/website/fr/archive/idee-denken/</link>
+      <pubDate>Thu, 04 Jan 2018 13:45:42 +0100</pubDate>
+      
+      <guid>https://sven-sven.github.io/website/fr/archive/idee-denken/</guid>
+      <description>missing text.</description>
+    </item>
+    
+  </channel>
+</rss>

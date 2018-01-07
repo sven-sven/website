@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sven-sven.github.io/website/en/archive/idee-denken/</loc>
+    <lastmod>2018-01-04T13:45:42+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://sven-sven.github.io/website/de/archive/idee-denken/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sven-sven.github.io/website/fr/archive/idee-denken/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sven-sven.github.io/website/en/archive/idee-denken/"
+                />
+  </url>
+  
+  <url>
     <loc>https://sven-sven.github.io/website/en/misc/</loc>
     <lastmod>2017-10-22T22:08:24+02:00</lastmod>
     <xhtml:link
@@ -306,8 +326,44 @@
   
   <url>
     <loc>https://sven-sven.github.io/website/en/tags/idea/</loc>
-    <lastmod>2017-10-08T13:53:10+02:00</lastmod>
+    <lastmod>2018-01-04T13:45:42+01:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://sven-sven.github.io/website/de/tags/idea/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sven-sven.github.io/website/fr/tags/idea/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sven-sven.github.io/website/en/tags/idea/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://sven-sven.github.io/website/en/categories/project/</loc>
+    <lastmod>2018-01-04T13:45:42+01:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://sven-sven.github.io/website/de/categories/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sven-sven.github.io/website/fr/categories/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sven-sven.github.io/website/en/categories/project/"
+                />
   </url>
   
   <url>
