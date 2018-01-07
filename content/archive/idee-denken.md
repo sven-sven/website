@@ -2,7 +2,7 @@
 title: "Idee Denken"
 date: 2018-01-04T13:45:42+01:00
 type: "post"
-draft: true
+draft: false
 tags: ["Idea"]
 categories: ["Project"]
 ---
