@@ -223,22 +223,22 @@
   </url>
   
   <url>
-    <loc>https://sven-sven.github.io/website/en/archive/alt/</loc>
+    <loc>https://sven-sven.github.io/website/en/archive/idee-denken/</loc>
     <lastmod>2000-10-13T22:41:36+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://sven-sven.github.io/website/de/archive/alt/"
+                href="https://sven-sven.github.io/website/de/archive/idee-denken/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://sven-sven.github.io/website/fr/archive/alt/"
+                href="https://sven-sven.github.io/website/fr/archive/idee-denken/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sven-sven.github.io/website/en/archive/alt/"
+                href="https://sven-sven.github.io/website/en/archive/idee-denken/"
                 />
   </url>
   
@@ -301,6 +301,48 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sven-sven.github.io/website/en/categories/culture/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://sven-sven.github.io/website/en/tags/idea/</loc>
+    <lastmod>2000-10-13T22:41:36+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://sven-sven.github.io/website/de/tags/idea/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sven-sven.github.io/website/fr/tags/idea/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sven-sven.github.io/website/en/tags/idea/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://sven-sven.github.io/website/en/categories/philosophy/</loc>
+    <lastmod>2000-10-13T22:41:36+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://sven-sven.github.io/website/de/categories/philosophy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sven-sven.github.io/website/fr/categories/philosophy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sven-sven.github.io/website/en/categories/philosophy/"
                 />
   </url>
   
