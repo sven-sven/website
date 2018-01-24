@@ -10,7 +10,7 @@
             {{ range .Site.Params.footer }} 
               <li>
                 <span>
-                  <a href="{{ .Site.BaseURL }}{{ .url }}">{{ .title}}</a>
+                  <a href="{{ $.Site.BaseURL }}{{ $.Page.Lang }}{{ .url }}">{{ .title}}</a>
                 </span>
               </li>
             {{ end }}

@@ -306,7 +306,7 @@
   
   <url>
     <loc>https://sven-sven.github.io/website/en/tags/idea/</loc>
-    <lastmod>2000-10-13T22:41:36+02:00</lastmod>
+    <lastmod>2017-10-08T13:53:10+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -326,23 +326,23 @@
   </url>
   
   <url>
-    <loc>https://sven-sven.github.io/website/en/categories/philosophy/</loc>
+    <loc>https://sven-sven.github.io/website/en/categories/project/</loc>
     <lastmod>2000-10-13T22:41:36+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://sven-sven.github.io/website/de/categories/philosophy/"
+                href="https://sven-sven.github.io/website/de/categories/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://sven-sven.github.io/website/fr/categories/philosophy/"
+                href="https://sven-sven.github.io/website/fr/categories/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sven-sven.github.io/website/en/categories/philosophy/"
+                href="https://sven-sven.github.io/website/en/categories/project/"
                 />
   </url>
   

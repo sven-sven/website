@@ -14,18 +14,18 @@ publishDir = "docs"
   email = ""
   postSummariesFrontPage = 4 #Number of post summaries to show on front page, comment out to allow default(4)
   googleAnalytics = "UA-109513918-1"
-  Copyright = "C"
+  Copyright = ""
   
 [[params.footer]]
   title = "Impressum"
-  url = "about/"  
-[[params.footer]]
-  title = "About"
-  url = "about/"
+  url = "/impressum/"
 [[params.footer]]
   title = "Contact"
   url = "/contact/"
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
 
 [Languages] 
 [Languages.de]

@@ -6,7 +6,7 @@ draft: false
 auther: "Sven"
 type: "post"
 tags: ["Idea"]
-categories: ["philosophy"]
+categories: ["Project"]
 ---
 ##### Inhalt
 

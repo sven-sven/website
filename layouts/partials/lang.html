@@ -1,4 +1,4 @@
 {{ range .Site.Languages }}
 
-  <a href="{{ replace $.Page.URL $.Page.Lang . }}">{{ . }}</a>
+  <a href="{{ replaceRE "^.*/(.{2})/" $.Page.URL . }}">{{ . }}</a>
 {{ end }}

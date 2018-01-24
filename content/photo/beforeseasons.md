@@ -79,14 +79,14 @@ Schließlich schwindet das Licht und in der Spiegelung legen sich die Perspektiv
 {{< img-grid2
     src1="/img/beforeseasons/q-blätter.jpg"
         alt1="" 
-    src2="/img/beforeseasons/r-brücke-h.jpg" 
+    src2="/img/beforeseasons/r-bridge--small.jpg" 
         alt2="" 
 >}}
 
 <br>
 <br>
 <br>
-Ein ausführlicherer Text zur Fotoreihe ist im Artikel [die Idee]({{< ref "/archive/idee-denken.md" >}}) zu finden.
+Ein ausführlicherer Text zur Fotoreihe ist im Artikel [die Idee]({{< ref "archive/idee-denken.md" >}}) zu finden.
 {{< image class="image thumbnail" src="/img/beforeseasons/s-rhein.jpg" >}}
 
 

@@ -5,7 +5,7 @@ date: "2017-10-08T13:53:10+02:00"
 description: "oder das Prinzip der Idee" 
 auther: "Sven"
 type: "post"
-tags: ["idee"]
+tags: ["idea"]
 
 ---
 
@@ -86,7 +86,7 @@ Schließlich schwindet das Licht und in der Spiegelung legen sich die Perspektiv
 <br>
 <br>
 <br>
-Ein ausführlicherer Text zur Fotoreihe ist im Artikel [die Idee]({{< ref "/archive/idee-denken.md" >}}) zu finden.
+Ein ausführlicherer Text zur Fotoreihe ist im Artikel [die Idee]({{< ref "archive/idee-denken.en.md" >}}) zu finden.
 {{< image class="image thumbnail" src="/img/beforeseasons/s-rhein.jpg" >}}
 
 

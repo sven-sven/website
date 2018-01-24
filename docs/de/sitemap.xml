@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sven-sven.github.io/website/de/contact/</loc>
+    <lastmod>2018-01-04T23:43:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sven-sven.github.io/website/de/impressum/</loc>
+    <lastmod>2018-01-04T14:43:05+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sven-sven.github.io/website/de/misc/</loc>
     <lastmod>2017-10-22T22:08:24+02:00</lastmod>
     <xhtml:link
@@ -326,23 +336,23 @@
   </url>
   
   <url>
-    <loc>https://sven-sven.github.io/website/de/categories/philosophy/</loc>
+    <loc>https://sven-sven.github.io/website/de/categories/project/</loc>
     <lastmod>2000-10-13T22:41:36+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://sven-sven.github.io/website/fr/categories/philosophy/"
+                href="https://sven-sven.github.io/website/fr/categories/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sven-sven.github.io/website/en/categories/philosophy/"
+                href="https://sven-sven.github.io/website/en/categories/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://sven-sven.github.io/website/de/categories/philosophy/"
+                href="https://sven-sven.github.io/website/de/categories/project/"
                 />
   </url>
   
