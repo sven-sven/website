@@ -3,26 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sven-sven.github.io/website/fr/archive/idee-denken/</loc>
-    <lastmod>2018-01-04T13:45:42+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://sven-sven.github.io/website/de/archive/idee-denken/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://sven-sven.github.io/website/en/archive/idee-denken/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://sven-sven.github.io/website/fr/archive/idee-denken/"
-                />
-  </url>
-  
-  <url>
     <loc>https://sven-sven.github.io/website/fr/misc/</loc>
     <lastmod>2017-10-22T22:08:24+02:00</lastmod>
     <xhtml:link
@@ -243,22 +223,22 @@
   </url>
   
   <url>
-    <loc>https://sven-sven.github.io/website/fr/archive/alt/</loc>
+    <loc>https://sven-sven.github.io/website/fr/archive/idee-denken/</loc>
     <lastmod>2000-10-13T22:41:36+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://sven-sven.github.io/website/de/archive/alt/"
+                href="https://sven-sven.github.io/website/de/archive/idee-denken/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sven-sven.github.io/website/en/archive/alt/"
+                href="https://sven-sven.github.io/website/en/archive/idee-denken/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://sven-sven.github.io/website/fr/archive/alt/"
+                href="https://sven-sven.github.io/website/fr/archive/idee-denken/"
                 />
   </url>
   
@@ -326,7 +306,7 @@
   
   <url>
     <loc>https://sven-sven.github.io/website/fr/tags/idea/</loc>
-    <lastmod>2018-01-04T13:45:42+01:00</lastmod>
+    <lastmod>2000-10-13T22:41:36+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -347,7 +327,7 @@
   
   <url>
     <loc>https://sven-sven.github.io/website/fr/categories/project/</loc>
-    <lastmod>2018-01-04T13:45:42+01:00</lastmod>
+    <lastmod>2000-10-13T22:41:36+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
