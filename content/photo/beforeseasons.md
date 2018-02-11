@@ -44,7 +44,7 @@ Es ist die Idee, die wirkt. Sie sichtbar zu machen heißt, das Unsichtbare darzu
 {{< img-grid2
     src1="/img/beforeseasons/h-ähren.jpg"
         alt1="" 
-    src2="/img/beforeseasons/i-tau-h.jpg"
+    src2="/img/beforeseasons/i-tau--small.jpg"
         alt2="" 
 >}}
 
