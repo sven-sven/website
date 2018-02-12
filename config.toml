@@ -9,7 +9,7 @@ publishDir = "docs"
 
 [params]
   DateForm = "Mon, Jan 2, 2006"
-  Description = "Beschreibung der Seite"
+  Description = "Violoncello"
   Author = "Sven Oloff"
   email = ""
   postSummariesFrontPage = 4 #Number of post summaries to show on front page, comment out to allow default(4)
