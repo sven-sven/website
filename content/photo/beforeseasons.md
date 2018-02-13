@@ -1,7 +1,7 @@
 ---
 title: "vor den Jahreszeiten"
 draft: false
-date: "2017-10-08T13:53:10+02:00"
+date: "2016-09-16T13:53:10+02:00"
 description: "oder das Prinzip der Idee" 
 auther: "Sven"
 type: "post"
