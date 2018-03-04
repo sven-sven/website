@@ -12,8 +12,22 @@ Seit Beginn meiner Auftritte ist das kik, „Kultur in der Kaserne‟ in Offenbu
 
 <br>
 <br>
+
+{{< image class="image thumbnail" src="/img/kik-Plakate/kik-1.jpg" >}}
+<br>
+<br>
+<br>
+{{< image class="image thumbnail" src="/img/kik-Plakate/kik-2.jpg" >}}
+<br>
+<br>
+<br>
+{{< image class="image thumbnail" src="/img/kik-Plakate/kik-3.jpg" >}}
+<br>
+<br>
 <br>
 vom „kik‟ zum „kak‟:  
-<a href="http://kik-online.de/" target="_blank">kik Offenburg</a>
-<a href="http://cafe-kakadu.de/" target="_blank">Café Kakadu</a>
+<a href="http://kik-online.de/" style="text-decoration: underline;" target="_blank">kik Offenburg</a>
+<a href="http://cafe-kakadu.de/" style="text-decoration: underline;" target="_blank">Café Kakadu</a>
+<br>
+<br>
 {{< image class="image thumbnail" src="/img/kik-Plakate/17-kak.jpg" >}}
