@@ -8,14 +8,14 @@ type: "post"
 tags: ["Idea"]
 categories: ["Project"]
 ---
-##### Inhalt
+#### Inhalt <a id="Inhalt" ></a>
 
-[<h6>Auftakt</h6>](#Auftakt)
-[<h6>Jahreszeiten</h6>](#Jahreszeiten)
-[<h6>die Idee</h6>](#die Idee)
-[<h6>hinter der Oberfläche</h6>](#hinter der Oberfläche)
-[<h6>im sozialen Kontext</h6>](#im sozialen Kontext)
-[<h6>Denken</h6>](#Denken)
+[<h5>Auftakt</h5>](#Auftakt)
+[<h5>vor den Jahreszeiten</h5>](#vor den Jahreszeiten)
+[<h5>die Idee</h5>](#die Idee)
+[<h6>- hinter der Oberfläche</h6>](#hinter der Oberfläche)
+[<h6>- im sozialen Kontext</h6>](#im sozialen Kontext)
+[<h6>- im Denken</h6>](#im Denken)
 
 
 <br>
@@ -28,9 +28,11 @@ Es liegt nahe sich zu überlegen, ob sich dieses Phänomen durch das ganze Jahr 
 
 Ausgehend von der Bilderserie möchte ich auf plakative Art einigen grundsätzlichen Fragen nachgehen. Ich überzeichne bewusst und verzichte hier auf kleinem Raum auf ausführliche Querverweise und Diskussion. Zitate müssen Andeutungen bleiben.  
 Lässt sich die Vorahnung für alle Jahreszeiten charakterisieren? Kann der Begriff der Idee zusammenfassend greifen und damit als gedankliches Werkzeug dienen? Welche Aspekte eröffnen sich mit der Idee für Kunst, Gesellschaft und Denken?  
+{{< image class="image thumbnail" src="/img/beforeseasons/Inhalt-Idee.png" >}}
+<p align="right" </p> <a href="#top">⇡ top </a>
 
 <br>
-#### Jahreszeiten <a id="Jahreszeiten"></a>
+#### vor den Jahreszeiten <a id="vor den Jahreszeiten"></a>
 Der Beginn der Bilderreihe ist naheliegend, der Beginn des Jahres. Der Tag vor dem Frühling. Wenn das Licht schon kraftvoll und warm und alles in der Natur noch wie gebleicht ist, scheint es nur eine Frage des Momentes zu sein, dass das erste Blatt erscheint. Der Moment ist markant, ganz gleich, was im Verborgenen geschieht: denn das erste Blatt ist da oder eben nicht.  
 
 Weniger augenscheinlich ist der Beginn des Sommers. Wann ist Sommer? Im Übergang zum Sommer ist noch Licht im Wald, bevor sich das Blätterdach schließt. Ein Nebel aus Gras und sich ankündigende Wärme. Kurz darauf schließt sich das Blätterdach und es wird dunkel im Wald. Die Vegetation am Boden zieht sich zurück.  
@@ -38,6 +40,7 @@ Weniger augenscheinlich ist der Beginn des Sommers. Wann ist Sommer? Im Übergan
 Nach der Lebendigkeit des Frühlings ist im Sommer Ruhe, Lethargie und grün fast bis zum Überdruss. Zum Ende des Sommers wächst der Wunsch nach Dynamik, Farbe und Veränderung. Die zweite Jahreszeit der Veränderung kommt.  
 
 Schließlich schwindet das Licht mit der Annäherung des Winters. Der innere Blick richtet sich zugleich zurück und voraus. In der Halbspiegelung des Wassers blickt man zugleich nach vorne und zurück. Beide Perspektiven legen sich wie in einer Doppelbelichtung übereinander.  
+<p align="right" </p> <a href="#top">⇡ top </a>
 
 <br>
 #### die Idee <a id="die Idee"></a>
@@ -48,6 +51,7 @@ Das Thema des Sehens und Erkennens durchzieht die ganze Geschichte der Philosoph
 Auf den ersten Blick ist die Fotoreihe eine impressionistische Sicht auf die Natur. Ein eher zufälliges Vorbeifahren an ähnlichen oder gleichen Stellen über ein ganzes Jahr hinweg. Man wird nie den selben Wald betreten können! In den Wald gehen mit Heraklit, es muss nicht immer Schwimmen sein… Im Kern ist es das Spiel mit der Vorstellung und Ahnung des Betrachters. Die Idee als essenzieller Teil der Wahrnehmung und treibende Kraft des Denkens wird selbst zum Thema.  
 
 Nichts entsteht ohne Idee und ohne Idee entsteht nichts – könnte zumindest für eine Komposition gelten. Darin liegt wohl der Reiz der „Préludes“, der „Vorgesänge“. Sie reichen vom frühen Barock, zum Teil auch improvisierend gespielt, über die Präludien von Bach und den Zyklus der Préludes von Chopin, bis zu jenen von Rachmaninov, Debussy und Schostakowitsch. So verschieden der Hintergrund ist, allen gemeinsam ist der Eröffnungscharakter: die Erschließung des gesamten Tonraumes im wohltemperierten Klavier, die Eröffnung einer Suite, oder das „präludieren“ (Chopin) mit seinem Bezug hin zum improvisierenden Spiel. Das beschreibt die beiden besonderen Eigenheiten der Préludes: Zum einen das Umfassende (wie in den 24 Einzelstücken für die 12 Halbtöne in dur und moll), zum anderen das Freie, Spielerische, Offene in tatsächlicher oder angedeuteter Improvisation. So gesehen, sind die Bilder der hier besprochenen Reihe Préludes der Jahreszeiten. Die Bilderreihe umschließt das ganze Jahr, jedes einzelne Bild lässt sich leicht und spielerisch austauschen.  
+<p align="right" </p> <a href="#top">⇡ top </a>
 
 <br>
 #### hinter der Oberfläche <a id="hinter der Oberfläche"></a>
@@ -55,19 +59,20 @@ Ich stelle mir vor, das Foto wäre ein Bild. Ein gemaltes Bild. Dann wäre es an
 
 Auch die Fotografie betritt (mit Isnogud) die Straße nach Nirgendwo, reichlich Mehrfachbelichtung, Unschärfe, Bewegung, Farbkanäle. Im allgemeinen ist sie jedoch oberflächenaffin, mit noch mehr Prägnanz, Auflösung, Glanz, Tiefe, dem schwärzesten Schwarz. Nur das zählt, was im kleinsten Kristall, im letzten Pixel steckt. Was nicht drin ist, ist auch nicht darunter. Die Malerei hat alle Zeit, die Fotografie hat unzählige Momente. Man sieht sie direkt, den in sich versunkenen Maler, die Brennweite wechselnd und den motorklickenden Fotografen. Das eine malt sich vom Abbild weg, das andere hält fest. Und es ist nicht zufällig, dass die Malerei nach dem perfekten Weiß (Bleiweiß für einen gemalten hauchdünnen, fast transparenten Schleier) suchte, die Fotografie nach dem perfekten Schwarz. „Design ist Oberfläche“ heißt es in der Geschichte des Designs (Selle). Oberfläche ist alles, dahinter ist nichts - Buñuel hat es gewußt.  
 
-Niemand macht vom Medium wie Bild oder Ton abhängig, was Kunst ist. Keiner hält das eingesetzte Mittel, wie Pinsel oder Kamera, für entscheident. Manchen dagegen gilt schon die Technik und Struktur, wie Tonalität und Gegenständlichkeit oder Abstraktion und Verfremdung, als Grundlage der Bewertung. Doch abgesehen vom subjektiven Gefallen gibt allenfalls die Zeit einen annähernd objektiven Hinweis auf die künstlerische Qualität. Ob ein gewagtes Experiment oder ein stilistischer Rückgriff die Kunstgeschichte prägt oder nur einen aktuellen Effekt wirkungsvoll ausnutzt und verwertet bleibt spekulativ. Nur die Zeit zeigt es. Sich die Gegenwart als lange vergangen vorzustellen kann helfen…  
+Niemand macht vom Medium wie Bild oder Ton abhängig, was Kunst ist. Keiner hält das eingesetzte Mittel, wie Pinsel oder Kamera, für entscheidend. Manchen dagegen gilt schon die Technik und Struktur, wie Tonalität und Gegenständlichkeit oder Abstraktion und Verfremdung, als Grundlage der Bewertung. Doch abgesehen vom subjektiven Gefallen gibt allenfalls die Zeit einen annähernd objektiven Hinweis auf die künstlerische Qualität. Ob ein gewagtes Experiment oder ein stilistischer Rückgriff die Kunstgeschichte prägt oder nur einen aktuellen Effekt wirkungsvoll ausnutzt und verwertet bleibt spekulativ. Nur die Zeit zeigt es. Sich die Gegenwart als lange vergangen vorzustellen kann helfen…  
 Käme heute, mit zeitlichem Abstand, irgend jemand auf den Gedanken die Musik Dave Brubecks wegen der Tonalität seiner Stücke unkreativ zu finden, nur weil er nicht dem Weg der 12-Tonmusik folgte? Die Überwindung der Oberfläche oder der Kult um sie sind Spielarten der Kunst und Stoff der Philosophie, nicht mehr. Der Kunstbegriff selbst - zwischen allem und nichts - ist fragwürdig und es reizt, sich ganz von ihm zu verabschieden. Oder nicht?  
 
 Zurück zum Begriff der Idee, der hier im Fokus steht. Das scheinbar sinnlose Unterfangen Kunst zu hinterfragen und zu versuchen, sie zu objektivieren, ist vielleicht nur absurd im Camus'schen Sinn und tatsächlich ein notwendiger Teil des kreativen Prozesses.  
 Die Idee als kreative Antriebskraft. Es interessiert der „zündende“ Moment, bevor sie Gestalt annimmt. Sie bleibt selbst verborgen und trägt damit das Geheimnis ihres Entstehen in sich. Das Kunstprodukt als Ergebnis bleibt nur ein Verweis auf sein Entstehen. Schließlich auf den Punkt gebracht und öffentlich, beginnt das seinerseits rätselhafte Eigenleben des Kunstwerkes. Idealerweise fächert sich seine Wirkung beim Rezipienten wiederum auf. Ein Ablauf, bildlich wie eine Sanduhr, vom Diffusen zum Konkreten und wieder zum Offenen. Ein qualitatives Merkmal das erklären kann, warum manches Bild nur einmal gesehen werden muss und, weil ohne Zauber, vergessen werden kann. Andere lassen den Betrachter Jahre und Jahrhunderte erstaunen, ohne dass die Wirkung nachlässt. Überraschung und Provokation sind absolut unverzichtbar für die Kunst, ihre Nachahmung ist allerdings widersinnig und völlig witzlos. Die Vieldeutigkeit der Violoncello-Solosuiten von Bach sind das beste Beispiel für anhaltende Inspiration. Auch ein dreiviertel Jahrhundert nach ihrem breiten Bekanntwerden durch Casals ist ihre Interpretation bei weitem nicht erschöpft. Das gleiche Prinzip an anderer Stelle: Warum ist Geigenbau neben aller Handwerklichkeit eine Kunst? Wäre das Ausgangsmaterial homogen und eindeutig definierbar, die idealen Formen feststehend, alles reproduzierbar – das Ergebnis wäre langweilig. Doch jedes gewachsene Holz ist anders, die Bearbeitung auch intuitiv und damit ist offen und im Idealfall vielschichtig, was das Spiel auf dem Instrument hervorbringt.  
 Die sanduhrförmige Abfolge beschreibt in Form und Symetrie eine der Qualitäten von Kunst und thematisiert sie gesellschaftlich: Von der Idee über die Kunst zur Idee.  
-
+<p align="right" </p> <a href="#top">⇡ top </a>
 
 <br>
 #### im sozialen Kontext <a id="im sozialen Kontext"></a>
 
 
 <br>
-#### Denken <a id="Denken"></a>
+#### im Denken <a id="im Denken"></a>
+
 
 
