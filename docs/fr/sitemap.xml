@@ -3,22 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sven-sven.github.io/website/fr/archive/idee-denken/</loc>
+    <loc>https://sven-sven.github.io/website/fr/arch/idee-denken/</loc>
     <lastmod>2018-02-12T22:41:36+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://sven-sven.github.io/website/de/archive/idee-denken/"
+                href="https://sven-sven.github.io/website/de/arch/idee-denken/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sven-sven.github.io/website/en/archive/idee-denken/"
+                href="https://sven-sven.github.io/website/en/arch/idee-denken/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://sven-sven.github.io/website/fr/archive/idee-denken/"
+                href="https://sven-sven.github.io/website/fr/arch/idee-denken/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://sven-sven.github.io/website/fr/contact/</loc>
+    <lastmod>2018-01-04T23:43:52+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://sven-sven.github.io/website/de/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sven-sven.github.io/website/en/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sven-sven.github.io/website/fr/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://sven-sven.github.io/website/fr/impressum/</loc>
+    <lastmod>2018-01-04T14:43:05+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://sven-sven.github.io/website/de/impressum/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sven-sven.github.io/website/en/impressum/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sven-sven.github.io/website/fr/impressum/"
                 />
   </url>
   
@@ -43,22 +83,22 @@
   </url>
   
   <url>
-    <loc>https://sven-sven.github.io/website/fr/archive/</loc>
+    <loc>https://sven-sven.github.io/website/fr/arch/</loc>
     <lastmod>2017-10-22T22:08:24+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://sven-sven.github.io/website/de/archive/"
+                href="https://sven-sven.github.io/website/de/arch/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sven-sven.github.io/website/en/archive/"
+                href="https://sven-sven.github.io/website/en/arch/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://sven-sven.github.io/website/fr/archive/"
+                href="https://sven-sven.github.io/website/fr/arch/"
                 />
   </url>
   
