@@ -7,6 +7,7 @@ description = "Violoncello"
 baseurl = "https://sven-sven.github.io/website/"
 theme = "startbootstrap-clean-blog"
 publishDir = "docs"
+googleAnalytics = "UA-117483988-1"
 
 [params]
   DateForm = "Mon, Jan 2, 2006"
@@ -14,7 +15,6 @@ publishDir = "docs"
   Author = "Sven Oloff"
   email = ""
   postSummariesFrontPage = 4 #Number of post summaries to show on front page, comment out to allow default(4)
-  googleAnalytics = "UA-117483988-1"
   Copyright = ""
   
 [[params.footer]]
