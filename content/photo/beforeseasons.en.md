@@ -1,11 +1,11 @@
 ---
 title: "vor den Jahreszeiten"
 draft: false
-date: "2017-10-08T13:53:10+02:00"
+date: "2016-09-16T13:53:10+02:00"
 description: "oder das Prinzip der Idee" 
 auther: "Sven"
 type: "post"
-tags: ["idea"]
+tags: ["idee"]
 
 ---
 
@@ -44,7 +44,7 @@ Es ist die Idee, die wirkt. Sie sichtbar zu machen heißt, das Unsichtbare darzu
 {{< img-grid2
     src1="/img/beforeseasons/h-ähren.jpg"
         alt1="" 
-    src2="/img/beforeseasons/i-tau-h.jpg"
+    src2="/img/beforeseasons/i-tau--small.jpg"
         alt2="" 
 >}}
 
@@ -79,14 +79,14 @@ Schließlich schwindet das Licht und in der Spiegelung legen sich die Perspektiv
 {{< img-grid2
     src1="/img/beforeseasons/q-blätter.jpg"
         alt1="" 
-    src2="/img/beforeseasons/r-brücke-h.jpg" 
+    src2="/img/beforeseasons/r-bridge--small.jpg" 
         alt2="" 
 >}}
 
 <br>
 <br>
 <br>
-Ein ausführlicherer Text zur Fotoreihe ist im Artikel [die Idee]({{< ref "arch/idee-denken.en.md" >}}) zu finden.
+Ein ausführlicherer Text zur Fotoreihe ist im Artikel [die Idee]({{< ref "arch/idee-denken.md" >}}) zu finden.
 {{< image class="image thumbnail" src="/img/beforeseasons/s-rhein.jpg" >}}
 
 

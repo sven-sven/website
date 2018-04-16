@@ -243,26 +243,6 @@
   </url>
   
   <url>
-    <loc>https://sven-sven.github.io/website/fr/photo/beforeseasons/</loc>
-    <lastmod>2017-10-08T13:53:10+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://sven-sven.github.io/website/de/photo/beforeseasons/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://sven-sven.github.io/website/en/photo/beforeseasons/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://sven-sven.github.io/website/fr/photo/beforeseasons/"
-                />
-  </url>
-  
-  <url>
     <loc>https://sven-sven.github.io/website/fr/music/kik-plakate/</loc>
     <lastmod>2017-01-07T16:21:57+01:00</lastmod>
     <xhtml:link
@@ -279,6 +259,26 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://sven-sven.github.io/website/fr/music/kik-plakate/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://sven-sven.github.io/website/fr/photo/beforeseasons/</loc>
+    <lastmod>2016-09-16T13:53:10+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://sven-sven.github.io/website/de/photo/beforeseasons/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sven-sven.github.io/website/en/photo/beforeseasons/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sven-sven.github.io/website/fr/photo/beforeseasons/"
                 />
   </url>
   
