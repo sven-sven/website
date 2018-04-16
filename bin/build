@@ -1,0 +1,10 @@
+#!/bin/bash
+
+publishdir=$(gawk -F "=" '/publishDir/ {print $2}' config.toml)
+publishdir=$(echo $publishdir | tr -d \")
+
+echo Deleting $publishdir ...
+rm -rf $publishdir
+
+echo Building hugo ...
+hugo
