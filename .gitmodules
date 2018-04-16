@@ -1,7 +1,3 @@
-[submodule "docsa"]
-	path = docsa
-	url = ../temp.git
-	branch = master
 [submodule "docs"]
 	path = docs
 	url = ../sven-sven.github.io.git
