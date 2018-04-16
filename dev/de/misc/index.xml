@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sven Oloff</title>
+    <link>http://localhost:1313/de/misc/</link>
+    <description>Recent content on Sven Oloff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 22 Oct 2017 22:08:24 +0200</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/de/misc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Luftbefeuchter</title>
+      <link>http://localhost:1313/de/misc/humidifier/</link>
+      <pubDate>Sat, 24 Oct 2015 13:53:10 +0200</pubDate>
+      
+      <guid>http://localhost:1313/de/misc/humidifier/</guid>
+      <description>Der Proberaum ist warm, die Ideen gut, das Cello gestimmt - an die Arbeit. Doch aus dem Instrument kommt nichts als krankes Krächzen. Kein guter Tag, nicht in Form? Nichts geht …
+Die ausgiebige Suche führt zu einer einfachen Lösung: Streichinstrumente können extrem empfindlich sein, was die relative Luftfeuchte anbetrifft. Die ungefähre, zeitweilige Kontrolle und Korrektur der Luftfeuchte reicht dann nicht aus. Die Luft muss, vor allem beim Heizen, befeuchtet werden.</description>
+    </item>
+    
+  </channel>
+</rss>
