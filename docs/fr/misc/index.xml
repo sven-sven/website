@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sven Oloff</title>
-    <link>https://sven-sven.github.io/website/fr/misc/</link>
+    <link>https://sven-sven.github.io/fr/misc/</link>
     <description>Recent content on Sven Oloff</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 22 Oct 2017 22:08:24 +0200</lastBuildDate>
     
-	<atom:link href="https://sven-sven.github.io/website/fr/misc/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sven-sven.github.io/fr/misc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Luftbefeuchter</title>
-      <link>https://sven-sven.github.io/website/fr/misc/humidifier/</link>
+      <link>https://sven-sven.github.io/fr/misc/humidifier/</link>
       <pubDate>Sun, 08 Oct 2017 13:53:10 +0200</pubDate>
       
-      <guid>https://sven-sven.github.io/website/fr/misc/humidifier/</guid>
+      <guid>https://sven-sven.github.io/fr/misc/humidifier/</guid>
       <description>Der Proberaum ist warm, die Ideen gut, das Cello gestimmt - an die Arbeit. Doch aus dem Instrument kommt nichts als krankes Krächzen. Kein guter Tag, nicht in Form? Nichts geht …
 Die ausgiebige Suche führt zu einer einfachen Lösung: Streichinstrumente können extrem empfindlich sein, was die relative Luftfeuchte anbetrifft. Die ungefähre, zeitweilige Kontrolle und Korrektur der Luftfeuchte reicht dann nicht aus. Die Luft muss, vor allem beim Heizen, befeuchtet werden.</description>
     </item>

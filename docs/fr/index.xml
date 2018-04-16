@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sven Oloff</title>
-    <link>https://sven-sven.github.io/website/fr/</link>
+    <link>https://sven-sven.github.io/fr/</link>
     <description>Recent content on Sven Oloff</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 22 Oct 2017 22:08:24 +0200</lastBuildDate>
     
-	<atom:link href="https://sven-sven.github.io/website/fr/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sven-sven.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>die Idee</title>
-      <link>https://sven-sven.github.io/website/fr/arch/idee-denken/</link>
+      <link>https://sven-sven.github.io/fr/arch/idee-denken/</link>
       <pubDate>Mon, 12 Feb 2018 22:41:36 +0200</pubDate>
       
-      <guid>https://sven-sven.github.io/website/fr/arch/idee-denken/</guid>
+      <guid>https://sven-sven.github.io/fr/arch/idee-denken/</guid>
       <description>Inhalt Auftakt Jahreszeiten die Idee hinter der Oberfläche im sozialen Kontext Denken
 
 Auftakt  Ich präsentiere mich mit der Fotoreihe „vor den Jahreszeiten“ nicht als Fotograf. Auch steht das einzelne Foto nicht im Vordergrund, sondern die Serie der Bilder. Sie sind ursprünglich nicht mit der Absicht der Veröffentlichung entstanden. Anregungen von außen stießen das Projekt einer Fotoausstellung an. Es begann zunächst mit den Bildern des späten Winters und ich musste mir zunächst selbst darüber klar werden, was mich eigentlich faszinierte.</description>
@@ -23,19 +23,19 @@ Auftakt  Ich präsentiere mich mit der Fotoreihe „vor den Jahreszeiten“ nich
     
     <item>
       <title>Contact</title>
-      <link>https://sven-sven.github.io/website/fr/contact/</link>
+      <link>https://sven-sven.github.io/fr/contact/</link>
       <pubDate>Thu, 04 Jan 2018 23:43:52 +0100</pubDate>
       
-      <guid>https://sven-sven.github.io/website/fr/contact/</guid>
+      <guid>https://sven-sven.github.io/fr/contact/</guid>
       <description>Please fill in the form:</description>
     </item>
     
     <item>
       <title>Impressum</title>
-      <link>https://sven-sven.github.io/website/fr/impressum/</link>
+      <link>https://sven-sven.github.io/fr/impressum/</link>
       <pubDate>Thu, 04 Jan 2018 14:43:05 +0100</pubDate>
       
-      <guid>https://sven-sven.github.io/website/fr/impressum/</guid>
+      <guid>https://sven-sven.github.io/fr/impressum/</guid>
       <description>Licenses
 This site is built with &amp;ldquo;hugo&amp;rdquo;. Hugo v0.15 and later and the theme &amp;ldquo;startbootstrap-clean-blog&amp;rdquo;, author Benoît Benedetti, are released under the Apache 2.0 license.
 Impressum
@@ -49,10 +49,10 @@ Der Autor übernimmt keinerlei Gewähr für die Aktualität, Korrektheit, Vollst
     
     <item>
       <title>Sven</title>
-      <link>https://sven-sven.github.io/website/fr/about/about/</link>
+      <link>https://sven-sven.github.io/fr/about/about/</link>
       <pubDate>Sat, 14 Oct 2017 10:05:00 +0200</pubDate>
       
-      <guid>https://sven-sven.github.io/website/fr/about/about/</guid>
+      <guid>https://sven-sven.github.io/fr/about/about/</guid>
       <description>Violoncello zu spielen ist mein Beruf.
 Zuerst als Lehrer, was mir durch die Arbeit mit den Schülern die Musik erst richtig nahegebracht hat.
 Dann mit einer naturwissenschaftlichen Untersuchung der menschlichen Atmung beim Cellospiel. Eine Promotion zwischen Pädagogik, Arbeitswissenschaft und Musik.
@@ -61,20 +61,20 @@ Jetzt seit vielen Jahren als Spieler. Ich suche Töne - solche, die schon bekann
     
     <item>
       <title>Luftbefeuchter</title>
-      <link>https://sven-sven.github.io/website/fr/misc/humidifier/</link>
+      <link>https://sven-sven.github.io/fr/misc/humidifier/</link>
       <pubDate>Sun, 08 Oct 2017 13:53:10 +0200</pubDate>
       
-      <guid>https://sven-sven.github.io/website/fr/misc/humidifier/</guid>
+      <guid>https://sven-sven.github.io/fr/misc/humidifier/</guid>
       <description>Der Proberaum ist warm, die Ideen gut, das Cello gestimmt - an die Arbeit. Doch aus dem Instrument kommt nichts als krankes Krächzen. Kein guter Tag, nicht in Form? Nichts geht …
 Die ausgiebige Suche führt zu einer einfachen Lösung: Streichinstrumente können extrem empfindlich sein, was die relative Luftfeuchte anbetrifft. Die ungefähre, zeitweilige Kontrolle und Korrektur der Luftfeuchte reicht dann nicht aus. Die Luft muss, vor allem beim Heizen, befeuchtet werden.</description>
     </item>
     
     <item>
       <title>Auftritte</title>
-      <link>https://sven-sven.github.io/website/fr/music/kik-plakate/</link>
+      <link>https://sven-sven.github.io/fr/music/kik-plakate/</link>
       <pubDate>Sat, 07 Jan 2017 16:21:57 +0100</pubDate>
       
-      <guid>https://sven-sven.github.io/website/fr/music/kik-plakate/</guid>
+      <guid>https://sven-sven.github.io/fr/music/kik-plakate/</guid>
       <description>Seit Beginn meiner Auftritte ist das kik, „Kultur in der Kaserne‟ in Offenburg, bevorzugte Bühne, um meine Programme vorzustellen. Ein Ort neue Ideen zu präsentieren und auf neue Ideen zu kommen. Eine kleine Auswahl:
 
 vom „kik‟ zum „kak‟:
@@ -83,10 +83,10 @@ kik Offenburg Café Kakadu  </description>
     
     <item>
       <title>vor den Jahreszeiten</title>
-      <link>https://sven-sven.github.io/website/fr/photo/beforeseasons/</link>
+      <link>https://sven-sven.github.io/fr/photo/beforeseasons/</link>
       <pubDate>Fri, 16 Sep 2016 13:53:10 +0200</pubDate>
       
-      <guid>https://sven-sven.github.io/website/fr/photo/beforeseasons/</guid>
+      <guid>https://sven-sven.github.io/fr/photo/beforeseasons/</guid>
       <description>Der Tag vor dem Frühling. Wenn das Licht schon kraftvoll ist und alles in der Natur noch wie gebleicht ist, scheint es nur eine Frage des Momentes zu sein, dass das erste Blatt erscheint. Nicht im ersten Anzeichen des Frühjahrs liegt das Besondere, sondern in der Vorahnung.
           
 Es ist die Idee, die wirkt. Sie sichtbar zu machen heißt, das Unsichtbare darzustellen.</description>
