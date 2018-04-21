@@ -5,7 +5,7 @@ date = "2015-10-24T13:53:10+02:00"
 description = "einfach und effektiv" 
 auther = "Sven"
 type = "post"
-tags = ["Cello"]
+tags = ["cello"]
 
 +++
 

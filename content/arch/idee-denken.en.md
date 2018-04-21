@@ -5,7 +5,7 @@ date: "2018-02-12T22:41:36+02:00"
 draft: false
 auther: "Sven"
 type: "post"
-tags: ["Idea"]
+tags: ["idea"]
 categories: ["Project"]
 ---
 ##### Inhalt

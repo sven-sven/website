@@ -143,42 +143,22 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/en/tags/idee/</loc>
+    <loc>http://localhost:1313/en/tags/idea/</loc>
     <lastmod>2017-10-22T22:08:24+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/idee/"
+                href="http://localhost:1313/de/tags/idea/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/tags/idee/"
+                href="http://localhost:1313/fr/tags/idea/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/idee/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/en/music/</loc>
-    <lastmod>2017-10-22T22:08:24+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/music/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/music/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/music/"
+                href="http://localhost:1313/en/tags/idea/"
                 />
   </url>
   
@@ -223,42 +203,22 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/en/misc/humidifier/</loc>
-    <lastmod>2017-10-08T13:53:10+02:00</lastmod>
+    <loc>http://localhost:1313/en/music/</loc>
+    <lastmod>2017-03-12T22:08:24+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/misc/humidifier/"
+                href="http://localhost:1313/de/music/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/misc/humidifier/"
+                href="http://localhost:1313/fr/music/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/misc/humidifier/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/en/music/kik-plakate/</loc>
-    <lastmod>2017-01-07T16:21:57+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/music/kik-plakate/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/music/kik-plakate/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/music/kik-plakate/"
+                href="http://localhost:1313/en/music/"
                 />
   </url>
   
@@ -279,6 +239,46 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/en/photo/beforeseasons/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/en/music/kik-plakate/</loc>
+    <lastmod>2016-02-09T16:21:57+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/music/kik-plakate/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/music/kik-plakate/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/music/kik-plakate/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/en/misc/humidifier/</loc>
+    <lastmod>2015-10-24T13:53:10+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/misc/humidifier/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/misc/humidifier/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/misc/humidifier/"
                 />
   </url>
   
@@ -325,7 +325,7 @@
   
   <url>
     <loc>http://localhost:1313/en/categories/culture/</loc>
-    <lastmod>2017-01-07T16:21:57+01:00</lastmod>
+    <lastmod>2016-02-09T16:21:57+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -341,27 +341,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/en/categories/culture/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/en/tags/idea/</loc>
-    <lastmod>2018-02-12T22:41:36+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/tags/idea/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/tags/idea/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/idea/"
                 />
   </url>
   
