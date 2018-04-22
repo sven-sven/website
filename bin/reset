@@ -5,15 +5,13 @@ echo -e "\033[0;32mRoll back to GitHub version ...\033[0m"
 publishdir=$(gawk -F "=" '/publishDir/ {print $2}' config.toml)
 publishdir=$(echo $publishdir | tr -d \")
 
-#cannot rm publishdir since it is a git submodule
-#echo Deleting $publishdir ...
-#rm -rf $publishdir
-
 # Go To Public folder
 cd docs
+
 # roll back to origin/master
 git fetch origin
 git reset --hard origin/master
+git checkout master
 git status
 
 # Come Back up to the Project Root
