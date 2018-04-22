@@ -5,7 +5,7 @@ Description: "kik-Plakate über zwei Jahrzehnte"
 draft: false
 type: "post"
 tags: ["cello"]
-categories: ["culture"]
+categories: ["Dates"]
 ---
 
 Seit Beginn meiner Auftritte ist das kik, „Kultur in der Kaserne‟ in Offenburg, bevorzugte Bühne, um meine Programme vorzustellen. Ein Ort neue Ideen zu präsentieren und auf neue Ideen zu kommen. Eine kleine Auswahl:

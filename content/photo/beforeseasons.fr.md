@@ -6,7 +6,7 @@ description: "oder das Prinzip der Idee"
 auther: "Sven"
 type: "post"
 tags: ["idea"]
-
+categories: ["Projects"]
 ---
 
 <br>

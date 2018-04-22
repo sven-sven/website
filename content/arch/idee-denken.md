@@ -6,7 +6,7 @@ draft: false
 auther: "Sven"
 type: "post"
 tags: ["idea"]
-categories: ["Project"]
+categories: ["Projects"]
 ---
 #### Inhalt <a id="Inhalt" ></a>
 

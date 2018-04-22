@@ -6,7 +6,7 @@ description = "einfach und effektiv"
 auther = "Sven"
 type = "post"
 tags = ["cello"]
-
+categories = ["Documentations"]
 +++
 
 Der Proberaum ist warm, die Ideen gut, das Cello gestimmt - an die Arbeit. Doch aus dem Instrument kommt nichts als krankes Krächzen. Kein guter Tag, nicht in Form? Nichts geht …
