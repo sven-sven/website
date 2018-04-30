@@ -203,26 +203,6 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/en/categories/project/</loc>
-    <lastmod>2017-10-22T22:08:24+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/categories/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/categories/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/categories/project/"
-                />
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/en/categories/projects/</loc>
     <lastmod>2017-10-22T22:08:24+02:00</lastmod>
     <xhtml:link
