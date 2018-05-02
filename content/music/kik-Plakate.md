@@ -5,33 +5,34 @@ Description: "kik-Plakate über zwei Jahrzehnte"
 draft: false
 type: "post"
 tags: ["cello"]
-categories: ["Dates"]
+categories: [""]
 ---
 
-Seit Beginn meiner Auftritte ist das kik, „Kultur in der Kaserne“ in Offenburg, bevorzugte Bühne, um meine Programme vorzustellen. Ein Ort neue Ideen zu präsentieren und auf neue Ideen zu kommen. Ausschnitte aus der Plakatwand:
+Seit Beginn meiner Auftritte ist das kik, „Kultur in der Kaserne“ in Offenburg, bevorzugte Bühne, um meine Programme vorzustellen. Ein Ort neue Ideen zu präsentieren und auf neue Ideen zu kommen. Ausschnitte aus der Plakatwand:  
+<a href="http://kik-online.de/" style="text-decoration: underline;" target="_blank">kik Offenburg</a>  
 
 <br>
 <br>
 
-{{< image class="image thumbnail" src="/img/kik-Plakate/kik-1.jpg" >}}
+{{< image class="image thumbnail" src="/img/kik-poster/Sven_Oloff-poster-cello-kik-1.jpg" alt="Sven Oloff Violoncello gebogene Platte">}}
 <br>
 <br>
 <br>
-{{< image class="image thumbnail" src="/img/kik-Plakate/kik-2.jpg" >}}
+{{< image class="image thumbnail" src="/img/kik-poster/Sven_Oloff-poster-cello-kik-2.jpg" alt="Sven Oloff Violoncello mit Anne Heinrich">}}
 <br>
 <br>
 <br>
-{{< image class="image thumbnail" src="/img/kik-Plakate/kik-3.jpg" >}}
+{{< image class="image thumbnail" src="/img/kik-poster/Sven_Oloff-poster-cello-kik-3.jpg" alt="Sven Oloff Violoncello Rhythmus Bogen">}}
 <br>
 <br>
 <br>
 
-<a href="http://kik-online.de/" style="text-decoration: underline;" target="_blank">kik Offenburg</a>;  
+
  und eine weitere Bühne: 
 <a href="http://cafe-kakadu.de/" style="text-decoration: underline;" target="_blank">Café Kakadu</a>  
 <br>
 <br>
-{{< image class="image thumbnail" src="/img/kik-Plakate/17-kak.jpg" >}}
+{{< image class="image thumbnail" src="/img/kik-poster/Sven_Oloff-poster-cello-17-kakadu.jpg" >}}
 <br>
 <br>
 <br>

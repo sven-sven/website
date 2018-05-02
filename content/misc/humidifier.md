@@ -6,7 +6,7 @@ description = "einfach und effektiv"
 auther = "Sven"
 type = "post"
 tags = ["cello"]
-categories = ["Documentations"]
+categories = [""]
 +++
 
 Der Proberaum ist warm, die Ideen gut, das Cello gestimmt - an die Arbeit. Doch aus dem Instrument kommt nichts als krankes Krächzen. Kein guter Tag, nicht in Form? Nichts geht …
@@ -18,16 +18,16 @@ Die folgenden Bilder dokumentieren eine sehr einfache, effektive und fast kosten
 <br>
 <br>
 in Funktion:
-{{< image class="image thumbnail" src="/img/humidifier/Luftbefeuchter-1c.jpg" >}}
+{{< image class="image thumbnail" src="/img/humidifier/Sven_Oloff-cello-humidifier-1c.jpg" alt="Sven Oloff Cello Luftbefeuchter komplett">}}
 
 <br>
 <br>
 zum Schutz des Heizkörpers:
-{{< image class="image thumbnail" src="/img/humidifier/Luftbefeuchter-2c.jpg" >}}
+{{< image class="image thumbnail" src="/img/humidifier/Sven_Oloff-cello-humidifier-2c.jpg" alt="Sven Oloff Cello Luftbefeuchter Schutz">}}
 
 <br>
 <br>
 einmal wenden:
-{{< image class="image thumbnail" src="/img/humidifier/Luftbefeuchter-3c.jpg" >}}
+{{< image class="image thumbnail" src="/img/humidifier/Sven_Oloff-cello-humidifier-3c.jpg" alt="Sven Oloff Cello Luftbefeuchter Wasser">}}
 
 

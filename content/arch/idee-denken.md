@@ -6,7 +6,7 @@ draft: false
 auther: "Sven"
 type: "post"
 tags: ["idea"]
-categories: ["Projects"]
+categories: [""]
 ---
 #### Inhalt <a id="Inhalt" ></a>
 
@@ -28,7 +28,7 @@ Es liegt nahe sich zu überlegen, ob sich dieses Phänomen durch das ganze Jahr 
 
 Im Deckblatt scheint sich das ganze Jahr mit allen Farben zu spiegeln. Der Rhein ist das abschließende, räumliche Deckblatt der Bilderserie, hier entstanden fast alle Aufnahmen. Ausgehend von der Bilderserie möchte ich auf plakative Art einigen grundsätzlichen Fragen nachgehen. Ich überzeichne bewusst und verzichte hier auf kleinem Raum auf ausführliche Querverweise und Diskussion. Zitate müssen Andeutungen bleiben.  
 Lässt sich die Vorahnung für alle Jahreszeiten charakterisieren? Kann der Begriff der Idee zusammenfassend greifen und damit als gedankliches Werkzeug dienen? Welche Aspekte eröffnen sich mit der Idee für Kunst, Gesellschaft und Denken?  
-{{< image class="image thumbnail" src="/img/beforeseasons/Inhalt-Idee.png" >}}
+{{< image class="image thumbnail" src="/img/beforeseasons/content-idea.png" >}}
 <p align="right" </p> <a href="#top">⇡ top </a>
 
 <br>
