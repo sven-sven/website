@@ -12,7 +12,7 @@ categories: [""]
 <br>
 <br>
 <br>
-{{< image class="image thumbnail" src="/img/beforeseasons/Sven_Oloff-a-lake.jpg" alt="Sven Oloff See">}}  
+{{< image class="image thumbnail" src="/img/beforeseasons/Sven_Oloff-a-lake.jpg" alt="Sven Oloff Idee See">}}  
 
 <br>
 <br>
@@ -20,15 +20,15 @@ categories: [""]
 Der Tag vor dem Frühling. Wenn das Licht schon kraftvoll ist und alles in der Natur noch wie gebleicht ist, scheint es nur eine Frage des Momentes zu sein, dass das erste Blatt erscheint. Nicht im ersten Anzeichen des Frühjahrs liegt das Besondere, sondern in der Vorahnung.  
 {{< img-grid2
     src1="/img/beforeseasons/Sven_Oloff-b-roots.jpg"
-        alt1="Sven Oloff Wurzeln" 
+        alt1="Sven Oloff Idee Wurzeln" 
     src2="/img/beforeseasons/Sven_Oloff-c-wintertree.jpg" 
-        alt2="Sven Oloff Winterbaum" 
+        alt2="Sven Oloff Idee Winterbaum" 
 >}}
 {{< img-grid2
     src1="/img/beforeseasons/Sven_Oloff-d-wintergras.jpg"
-        alt1="Sven Oloff Wintergras" 
+        alt1="Sven Oloff Idee Wintergras" 
     src2="/img/beforeseasons/Sven_Oloff-e-winterreed.jpg" 
-        alt2="Sven Oloff Winterschilf" 
+        alt2="Sven Oloff Idee Winterschilf" 
 >}} 
 
 <br>
@@ -37,15 +37,15 @@ Der Tag vor dem Frühling. Wenn das Licht schon kraftvoll ist und alles in der N
 Es ist die Idee, die wirkt. Sie sichtbar zu machen heißt, das Unsichtbare darzustellen. Noch ist Licht im Wald, bevor sich das Blätterdach schließt. Ein Nebel aus Gras und kommende Wärme.
 {{< img-grid2
     src1="/img/beforeseasons/Sven_Oloff-f-springfield.jpg"
-        alt1="Sven Oloff Frühlingsacker" 
+        alt1="Sven Oloff Idee Frühlingsacker" 
     src2="/img/beforeseasons/Sven_Oloff-g-glade.jpg" 
-        alt2="Sven Oloff Waldwiese" 
+        alt2="Sven Oloff Idee Waldwiese" 
 >}}
 {{< img-grid2
     src1="/img/beforeseasons/Sven_Oloff-h-spikes.jpg"
-        alt1="Sven OLoff Ähren" 
+        alt1="Sven OLoff Idee Ähren" 
     src2="/img/beforeseasons/Sven_Oloff-i-dew--small.jpg"
-        alt2="Sven Oloff Tau" 
+        alt2="Sven Oloff Idee Tau" 
 >}}
 
 
@@ -55,15 +55,15 @@ Es ist die Idee, die wirkt. Sie sichtbar zu machen heißt, das Unsichtbare darzu
 In der Lethargie des Sommers, alles grün, entsteht die Erwartung von Farbe und Dynamik des Herbstes.
 {{< img-grid2
     src1="/img/beforeseasons/Sven_Oloff-k-pond2.jpg"
-        alt1="Sven OLoff Teich 2" 
+        alt1="Sven OLoff Idee Teich 2" 
     src2="/img/beforeseasons/Sven_Oloff-l-pond3.jpg" 
-        alt2="Sven Oloff Teich3" 
+        alt2="Sven Oloff Idee Teich3" 
 >}}
 {{< img-grid2
     src1="/img/beforeseasons/Sven_Oloff-m-field1.jpg"
-        alt1="Sven Oloff Acker 1" 
+        alt1="Sven Oloff Idee Acker 1" 
     src2="/img/beforeseasons/Sven_Oloff-n-field2.jpg" 
-        alt2="Sven Oloff Acker 2" 
+        alt2="Sven Oloff Idee Acker 2" 
 >}}
 
 <br>
@@ -72,22 +72,22 @@ In der Lethargie des Sommers, alles grün, entsteht die Erwartung von Farbe und 
 Schließlich schwindet das Licht und in der Spiegelung legen sich die Perspektiven voraus und zurück übereinander.
 {{< img-grid2
     src1="/img/beforeseasons/Sven_Oloff-o-twilight1.jpg"
-        alt1="Sven Oloff Dämmerung 1" 
+        alt1="Sven Oloff Idee Dämmerung 1" 
     src2="/img/beforeseasons/Sven_Oloff-p-twilight2.jpg" 
-        alt2="Sven Oloff Dämmerung 2" 
+        alt2="Sven Oloff Idee Dämmerung 2" 
 >}}
 {{< img-grid2
     src1="/img/beforeseasons/Sven_Oloff-q-leaves.jpg"
-        alt1="Sven Oloff Blätter auf dem Wasser" 
+        alt1="Sven Oloff Idee Blätter auf dem Wasser" 
     src2="/img/beforeseasons/Sven_Oloff-r-bridge--small.jpg" 
-        alt2="Sven Oloff unter der Brücke" 
+        alt2="Sven Oloff Idee unter der Brücke" 
 >}}
 
 <br>
 <br>
 <br>
 Ein ausführlicherer Text zur Fotoreihe ist im Artikel [die Idee]({{< ref "arch/idee-denken.md" >}}) zu finden.
-{{< image class="image thumbnail" src="/img/beforeseasons/Sven_Oloff-s-rhein.jpg" alt="Sven OLoff Rhein">}}
+{{< image class="image thumbnail" src="/img/beforeseasons/Sven_Oloff-s-rhein.jpg" alt="Sven OLoff Idee Rhein">}}
 
 
 {{< modal >}}
