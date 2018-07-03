@@ -1,0 +1,37 @@
+---
+title: "Vernissage"
+draft: false
+date: "2018-07-03T21:50:10+02:00"
+description: "das Vergnügen der interdisziplinären Randfigur" 
+auther: "Sven"
+type: "post"
+tags: ["cello"]
+categories: [""]
+---
+
+<br>
+Jetzt ist der Moment. Der letzte Strich ist gezeichnet, Firnis auf das Bild und die Gäste können geladen werden. Glanz auf dem Bild, auf dem Publikum und eine strahlende, musikalische Umrahmung dazu. Soweit die Geschichte, doch eine wundersame Sinnumkehr gibt Anlass zum Unmut: wird hier das Kunstwerk oder das Publikum umrahmt? Die Gäste scheinen ausreichend gefirnist und die Werke benötigen kaum mehr Lack. Also eine Vernissage (‚Lackierung‘) von wem oder was?  
+
+Solchermaßen in Frage gestellt, ist zu überdenken, welcher Sinn in einer musikalischen Umrahmung steckt – nur Konvention und zusätzliche Geräuschkulisse?  
+Zum einen ist es der, die Sinne zu öffnen. Das Ohr öffnet und befreit das Auge. Mit dem Hören kommt Ruhe in die Rinde, ein emotionaler Neustart des Denkapparates. Mit seiner Flüchtigkeit ist der Ton ein zurückhaltender Begleiter des Bildes. Im umgekehrten Fall hat das Bild, sei es als Bühnenbild oder als Bühnenshow, eine deutlich größere und anhaltendere Präsenz und tritt damit in stärkere Konkurrenz mit dem Konzert. Der Musiker hat bei der Vernissage viel leichter die kreative Nebenrolle.  
+
+<br>
+<br>
+{{< image class="image thumbnail" src="/img/vernissage/Sander-Aenne_Burda-Stift-090717.jpg" alt="Martin Sander Vernissage Aenne Burda stift">}}
+Vernissage Martin Sander „Lichtblicke“, Aenne Burda-Stift Offenburg;  
+<a href="http://www.sander-martin.de/" style="text-decoration: underline;" target="_blank">Martin Sander</a>  
+Foto: Ulrich Marx  
+
+<br>
+<br>
+Und so kann es doch gelingen. Wenn alles stimmt und etwas Glück dazukommt, funktioniert die Umrahmung. Der Begriff des Rahmens ist dabei jedoch irreführend: im Konkreten ist der Rahmen ein Teil des Bildes und wird vom Maler gewählt oder bewusst weggelassen. Im übertragenen Sinn einer Veranstaltung assoziiert der Begriff Fokussierung und Begrenzung. Doch der Musiker ist bei der Vernissage keine Vorband.  
+
+Vielmehr besteht die Aufgabe darin, zu öffnen und Freiraum zu geben. Also ist es alles, nur kein festhaltender Rahmen. Vielleicht eher so etwas wie der Facettenschliff am Rand einer Glasscheibe, der das Licht nach außen bricht. Eine interdisziplinäre, öffnende Facette zur präsentierten Kunst. Das ist dann das Vergnügen der interdisziplinären Randfigur, zum Beispiel mit einem ruhigen BACH zwischen gemalten Baumstämmen.  
+
+<br>
+<br>
+{{< image class="image thumbnail" src="/img/vernissage/Bach-Burda-Vernissage-180627.jpg" alt="Martin Sander Vernissage Hubert Burda Schlössle Galerie">}}
+Vernissage Martin Sander Landschaften,  
+Schlössle Galerie Fessenbach, Hubert Burda;  
+Foto: Susanne Ramm-Weber  
+

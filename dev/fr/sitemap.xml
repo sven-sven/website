@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/fr/misc/vernissage/</loc>
+    <lastmod>2018-07-03T21:50:10+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/misc/vernissage/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/misc/vernissage/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/misc/vernissage/"
+                />
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/fr/arch/idee-denken/</loc>
     <lastmod>2018-02-12T22:41:36+02:00</lastmod>
     <xhtml:link
@@ -339,6 +359,27 @@
                 rel="alternate"
                 hreflang="fr"
                 href="http://localhost:1313/fr/misc/humidifier/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/fr/categories/</loc>
+    <lastmod>2018-07-03T21:50:10+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/categories/"
                 />
   </url>
   
