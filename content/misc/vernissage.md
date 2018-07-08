@@ -9,7 +9,7 @@ tags: ["cello"]
 categories: [""]
 ---
 
-Jetzt ist der Moment die Arbeit zu beenden. Der letzte Strich ist gezeichnet, Firnis auf das Bild und die Gäste können geladen werden. Glanz auf dem Bild, auf dem Publikum und eine strahlende, musikalische Umrahmung dazu. Soweit die Geschichte, doch eine wundersame Sinnumkehr gibt Anlass zum Unmut: wird hier das Kunstwerk oder das Publikum umrahmt? Die Gäste scheinen ausreichend gefirnist und die Werke benötigen kaum mehr Lack. Also eine Vernissage (‚Lackierung‘) von wem oder was?  
+Jetzt ist der Moment die Arbeit zu beenden. Der letzte Strich ist gezeichnet, Firnis auf das Bild und die Gäste können geladen werden. Glanz auf dem Bild, auf dem Publikum und eine strahlende, musikalische Umrahmung dazu. Soweit die Geschichte, doch eine wundersame Sinnumkehr gibt Anlass zum Unmut: wird hier das Kunstwerk oder das Publikum umrahmt? Die Gäste scheinen ausreichend gefirnist und die Werke benötigen kaum mehr Lack. Also eine Vernissage (‚Lackierung‘) von was?  
 
 Solchermaßen in Frage gestellt, ist zu überdenken, welcher Sinn in einer musikalischen Umrahmung steckt – nur Konvention und zusätzliche Geräuschkulisse?  
 Zum einen ist es der, die Sinne zu öffnen. Das Ohr öffnet und befreit das Auge. Mit dem Hören kommt Ruhe in die Rinde, ein emotionaler Neustart des Denkapparates. Mit seiner Flüchtigkeit ist der Ton ein zurückhaltender Begleiter des Bildes. Im umgekehrten Fall hat das Bild, sei es als Bühnenbild oder als Bühnenshow, eine deutlich größere und anhaltendere Präsenz und tritt damit in stärkere Konkurrenz mit dem Konzert. Der Musiker hat es bei der Vernissage viel leichter, die kreative Nebenrolle einzunehmen, die von ihm verlangt wird.  
