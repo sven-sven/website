@@ -46,7 +46,7 @@ Wenig vermag so zu Inspirieren, wie das Ende einer kreativen Arbeitsphase. Mit d
 Ein stiller Moment zwischen der Zeit. Nur die imaginäre Zeitlupe dieser Wendung scheint die Zeit stehen zu lassen. Das Jetzt, ohne einen eigenen Zeitraum, ist nur die zeitliche Abbruchkante der Vergangenheit zur Zukunft.  
 
 <br>
-{{< image class="image thumbnail" src="/img/vernissage/Facettenschliff.jpg" alt="Martin Sander Vernissage Glas Facettenschliff">}}
+{{< image class="image thumbnail" src="/img/vernissage/Facettenschliff-1.jpg" alt="Martin Sander Vernissage Glas Facettenschliff">}}
 
 
 
