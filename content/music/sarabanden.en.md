@@ -19,6 +19,9 @@ Eine herausragende kompositorische Qualität der Violoncello-Suiten von Bach ist
 #### Ein Universum in vier Takten  
 Ganz in der Linie bewegt sich die erste Suite in G-dur. Auch in der Innensicht der Sarabande wird der Hörer ganz durch die schlichte Melodie eingenommen und geführt. Die Akkorde wirken eher als sanfte Streichbewegung denn als entwickelte Mehrstimmigkeit. Auffällig ist die Komplexität schon in den ersten vier Takten. Die eröffnenden beiden Klänge brauchen Zeit. Zeit für den freien Klang der leeren Saiten und die weite und weiche Bewegung des Bogens. Die erste Melodielinie mündet im zweiten Takt in die typisch gewichtende Verzierung auf dem zweiten Schritt. Erst jetzt beginnt das eigentliche Tempo, das Gehen. Würde man dem notierten Metrum folgen, so ergäbe sich, und in fast allen Interpretationen ist das so, eine sehr unschlüssige Melodielinie. Erst wenn man die Takte zwei und drei nicht als 2x3 Viertel, sondern als 3 Halbe interpretiert, bekommt sie einen Sinn. Mit dem vierten Takt schließt sich der erste größere (Halb-) Bogen der Melodie im normalen, notierten 3/4 Takt. Eine musikalische Architektur, die komplex ist, aber nicht kompliziert wirkt, sondern natürlich.  
 
+{{< image class="image thumbnail" src="/img/kik-poster/Bach-Sarabande-Sven-Oloff.jpg" alt="Architektur Sarabande BWV 1007">}}
+<br>
+
 {{< youtube "MAZoyLly_7k" >}}
 <br>
 
