@@ -1,4 +1,0 @@
-{{ range .Site.Languages }}
-
-  <a href="{{ $.Site.BaseURL }}{{ . }}{{ replaceRE ".*/.{2}(/.*)" "$1" $.Page.URL }}">{{ . }}</a>
-{{ end }}
