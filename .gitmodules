@@ -2,3 +2,6 @@
 	path = docs
 	url = ../sven-sven.github.io.git
 	branch = master
+[submodule "themes/startbootstrap-clean-blog"]
+	path = themes/startbootstrap-clean-blog
+	url = git@github.com:devstknco/startbootstrap-clean-blog.git
