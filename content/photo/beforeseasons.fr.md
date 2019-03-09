@@ -86,7 +86,7 @@ Schließlich schwindet das Licht und in der Spiegelung legen sich die Perspektiv
 <br>
 <br>
 <br>
-Ein ausführlicherer Text zur Fotoreihe ist im Artikel [die Idee]({{< ref "arch/idee-denken.md" >}}) zu finden.
+Ein ausführlicherer Text zur Fotoreihe ist im Artikel [die Idee]({{< ref "arch/idee-denken" >}}) zu finden.
 {{< image class="image thumbnail" src="/img/beforeseasons/s-rhein.jpg" >}}
 
 
