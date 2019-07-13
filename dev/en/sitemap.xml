@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/en/music/getrommelt/</loc>
+    <lastmod>2019-07-13T10:20:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/music/getrommelt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/music/getrommelt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/music/getrommelt/"
+                />
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/en/music/sarabanden/</loc>
     <lastmod>2018-12-02T10:20:30+01:00</lastmod>
     <xhtml:link
@@ -384,7 +404,7 @@
   
   <url>
     <loc>http://localhost:1313/en/categories/</loc>
-    <lastmod>2018-12-02T10:20:30+01:00</lastmod>
+    <lastmod>2019-07-13T10:20:30+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
