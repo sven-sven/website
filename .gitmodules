@@ -4,7 +4,9 @@
 	branch = master
 [submodule "themes/startbootstrap-clean-blog"]
 	path = themes/startbootstrap-clean-blog
-	url = git@github.com:devstknco/startbootstrap-clean-blog.git
+	url = https://github.com/devstknco/startbootstrap-clean-blog.git
+	# url = git@github.com:devstknco/startbootstrap-clean-blog.git
 [submodule "custom"]
 	path = custom
-	url = git@github.com:devstknco/hugo-custom-sven.git
+	url = https://github.com/devstknco/hugo-custom-sven.git
+	# url = git@github.com:devstknco/hugo-custom-sven.git
