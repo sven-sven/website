@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Musik on Sven Oloff</title>
@@ -11,14 +11,24 @@
     
     
     <item>
-      <title>getrommelt</title>
+      <title>Sarabanden 2</title>
+      <link>http://localhost:1313/de/music/sarabanden2/</link>
+      <pubDate>Fri, 31 Jul 2020 10:20:30 +0100</pubDate>
+      
+      <guid>http://localhost:1313/de/music/sarabanden2/</guid>
+      <description>Der Beitrag Sarabanden betraf die Sarabanden der Violoncello-Solosuiten 1‑3 von Bach. Bei den Suiten 1‑3 umschließen zwei Suiten in einer dur-Tonart eine Suite in einer moll-Tonart. In dieser zweiten Runde der Sarabanden stelle ich meine Sicht auf die Sarabanden der Suiten 4‑6 vor. Auch hier umschließen zwei Suiten in einer dur-Tonart eine Suite in einer moll-Tonart. Die cellistischen Herausforderungen sind in dieser zweiten Gruppe von Suiten insgesamt größer, ebenso fordert die musikalische Komplexität den Zuhörer in höherem Maß.</description>
+    </item>
+    
+    <item>
+      <title>Violoncello</title>
       <link>http://localhost:1313/de/music/getrommelt/</link>
-      <pubDate>Sat, 13 Jul 2019 10:20:30 +0100</pubDate>
+      <pubDate>Sat, 24 Aug 2019 10:20:30 +0100</pubDate>
       
       <guid>http://localhost:1313/de/music/getrommelt/</guid>
-      <description>Experimentierfreude und Violoncello – das ist eines.
-Neben Melodie und klanglicher Vielfalt stehen rhythmische und perkussive Möglichkeiten. Das bedeutet allerdings, sich mit dem Ohr ganz nahe an das Instrument zu begeben. Das folgende „getrommelte“ Stück benötigt keine elektronischen Effekte oder Loops.
-  </description>
+      <description>Der Klang des Violoncellos erreicht das menschliche Ohr ganz unmittelbar. Wenn sich im Film eine dramatische Szene ankündigt - Cello!
+Die Tonlage des Instrumentes liegt nahe an der des Menschen und auch die &amp;ldquo;Körperlichkeiten&amp;rdquo; sind sich nicht so fern. Mit dem Klang des Cellos findet eine innere Vielstimmigkeit mit Leichtigkeit ihren Ausdruck.
+Experimentierfreude und Violoncello – das ist eines.
+Neben Melodie und klanglicher Vielfalt stehen rhythmische und perkussive Möglichkeiten. Das bedeutet allerdings, sich mit dem Ohr ganz nahe an das Instrument zu begeben.</description>
     </item>
     
     <item>
@@ -37,10 +47,7 @@ Neben Melodie und klanglicher Vielfalt stehen rhythmische und perkussive Möglic
       
       <guid>http://localhost:1313/de/music/kik-plakate/</guid>
       <description>Seit Beginn meiner Auftritte ist das kik, „Kultur in der Kaserne“ in Offenburg, bevorzugte Bühne, um meine Programme vorzustellen. Ein Ort neue Ideen zu präsentieren und auf neue Ideen zu kommen. Ausschnitte aus der Plakatwand:
-kik Offenburg
-
-   und eine weitere Bühne: Café Kakadu
- Fotos: Wilfried Beege; Christof Breithaupt; Moritz Lang</description>
+kik Offenburg   und eine weitere Bühne: Café Kakadu Fotos: Wilfried Beege; Christof Breithaupt; Moritz Lang</description>
     </item>
     
   </channel>

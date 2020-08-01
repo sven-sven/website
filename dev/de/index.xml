@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sven Oloff</title>
@@ -11,14 +11,24 @@
     
     
     <item>
-      <title>getrommelt</title>
+      <title>Sarabanden 2</title>
+      <link>http://localhost:1313/de/music/sarabanden2/</link>
+      <pubDate>Fri, 31 Jul 2020 10:20:30 +0100</pubDate>
+      
+      <guid>http://localhost:1313/de/music/sarabanden2/</guid>
+      <description>Der Beitrag Sarabanden betraf die Sarabanden der Violoncello-Solosuiten 1‑3 von Bach. Bei den Suiten 1‑3 umschließen zwei Suiten in einer dur-Tonart eine Suite in einer moll-Tonart. In dieser zweiten Runde der Sarabanden stelle ich meine Sicht auf die Sarabanden der Suiten 4‑6 vor. Auch hier umschließen zwei Suiten in einer dur-Tonart eine Suite in einer moll-Tonart. Die cellistischen Herausforderungen sind in dieser zweiten Gruppe von Suiten insgesamt größer, ebenso fordert die musikalische Komplexität den Zuhörer in höherem Maß.</description>
+    </item>
+    
+    <item>
+      <title>Violoncello</title>
       <link>http://localhost:1313/de/music/getrommelt/</link>
-      <pubDate>Sat, 13 Jul 2019 10:20:30 +0100</pubDate>
+      <pubDate>Sat, 24 Aug 2019 10:20:30 +0100</pubDate>
       
       <guid>http://localhost:1313/de/music/getrommelt/</guid>
-      <description>Experimentierfreude und Violoncello – das ist eines.
-Neben Melodie und klanglicher Vielfalt stehen rhythmische und perkussive Möglichkeiten. Das bedeutet allerdings, sich mit dem Ohr ganz nahe an das Instrument zu begeben. Das folgende „getrommelte“ Stück benötigt keine elektronischen Effekte oder Loops.
-  </description>
+      <description>Der Klang des Violoncellos erreicht das menschliche Ohr ganz unmittelbar. Wenn sich im Film eine dramatische Szene ankündigt - Cello!
+Die Tonlage des Instrumentes liegt nahe an der des Menschen und auch die &amp;ldquo;Körperlichkeiten&amp;rdquo; sind sich nicht so fern. Mit dem Klang des Cellos findet eine innere Vielstimmigkeit mit Leichtigkeit ihren Ausdruck.
+Experimentierfreude und Violoncello – das ist eines.
+Neben Melodie und klanglicher Vielfalt stehen rhythmische und perkussive Möglichkeiten. Das bedeutet allerdings, sich mit dem Ohr ganz nahe an das Instrument zu begeben.</description>
     </item>
     
     <item>
@@ -45,9 +55,8 @@ Neben Melodie und klanglicher Vielfalt stehen rhythmische und perkussive Möglic
       <pubDate>Mon, 12 Feb 2018 22:41:36 +0200</pubDate>
       
       <guid>http://localhost:1313/de/arch/idee-denken/</guid>
-      <description>Inhalt  Auftakt vor den Jahreszeiten die Idee - hinter der Oberfläche - im sozialen Kontext - im Denken
-
-Auftakt  Ich präsentiere mich mit der Fotoreihe „vor den Jahreszeiten“ nicht als Fotograf. Auch steht das einzelne Foto nicht im Vordergrund, sondern die Serie der Bilder. Ursprünglich nicht mit der Absicht der Veröffentlichung entstanden, stießen Anregungen von außen das Projekt einer Fotoausstellung an. Es begann mit den Bildern des späten Winters und ich musste mir zunächst selbst darüber klar werden, was mich eigentlich faszinierte.</description>
+      <description>Inhalt  Auftakt [vor den Jahreszeiten](#vor den Jahreszeiten) [die Idee](#die Idee) [- hinter der Oberfläche](#hinter der Oberfläche) [- im sozialen Kontext](#im sozialen Kontext) [- im Denken](#im Denken)
+Es ist der Moment, bevor die neue Jahreszeit beginnt. In der Musik ist es der kaum sichtbare Auftakt zum Spielbeginn. Eigentlich sogar der Auftakt zum Auftakt. Dem hörbaren Auftakt in der Musik würde hier das erste erscheinende Blatt entsprechen, doch darum geht es hier nicht.</description>
     </item>
     
     <item>
@@ -72,7 +81,7 @@ Sven Oloff
 Brachfeldstraße 39
 77654 Offenburg
 Haftungsausschluss
- Inhalt des Onlineangebotes
+  Inhalt des Onlineangebotes
 Der Autor übernimmt keinerlei Gewähr für die Aktualität, Korrektheit, Vollständigkeit oder Qualität der bereitgestellten Informationen. Haftungsansprüche gegen den Autor, welche sich auf Schäden materieller oder ideeller Art beziehen, die durch die Nutzung oder Nichtnutzung der dargebotenen Informationen bzw.</description>
     </item>
     
@@ -94,9 +103,7 @@ Jetzt seit vielen Jahren als Spieler. Ich suche Töne - solche, die schon bekann
       <pubDate>Fri, 16 Sep 2016 13:53:10 +0200</pubDate>
       
       <guid>http://localhost:1313/de/photo/beforeseasons/</guid>
-      <description>Der Tag vor dem Frühling. Wenn das Licht schon kraftvoll ist und alles in der Natur noch wie gebleicht ist, scheint es nur eine Frage des Momentes zu sein, dass das erste Blatt erscheint. Nicht im ersten Anzeichen des Frühjahrs liegt das Besondere, sondern in der Vorahnung.
-          
-Es ist die Idee, die wirkt. Sie sichtbar zu machen heißt, das Unsichtbare darzustellen.</description>
+      <description> * { border-radius: 0 !important; } .grid-img { padding: 10px; } .modal-backdrop { background-color: #fffff0; opacity: .95 !important; } .modal-content { width: 80%; padding: 0%; margin: auto; } }       function showModal(imgUrl) { var attr1 = &#39; class=&#34;img-responsive center-block&#34;&#39;; var attr2 = &#39; style=&#34;padding: 0px; margin: 0px; vertical-align: middle;&#34;&#39;; var img= &#39;&#39;; $(&#39;#showModal .modal-body&#39;).html(img); $(&#39;#showModal&#39;).modal(&#39;show&#39;); }  </description>
     </item>
     
     <item>
@@ -106,10 +113,7 @@ Es ist die Idee, die wirkt. Sie sichtbar zu machen heißt, das Unsichtbare darzu
       
       <guid>http://localhost:1313/de/music/kik-plakate/</guid>
       <description>Seit Beginn meiner Auftritte ist das kik, „Kultur in der Kaserne“ in Offenburg, bevorzugte Bühne, um meine Programme vorzustellen. Ein Ort neue Ideen zu präsentieren und auf neue Ideen zu kommen. Ausschnitte aus der Plakatwand:
-kik Offenburg
-
-   und eine weitere Bühne: Café Kakadu
- Fotos: Wilfried Beege; Christof Breithaupt; Moritz Lang</description>
+kik Offenburg   und eine weitere Bühne: Café Kakadu Fotos: Wilfried Beege; Christof Breithaupt; Moritz Lang</description>
     </item>
     
     <item>

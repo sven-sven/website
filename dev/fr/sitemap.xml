@@ -1,10 +1,50 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/fr/music/sarabanden2/</loc>
+    <lastmod>2020-07-31T10:20:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/music/sarabanden2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/music/sarabanden2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/music/sarabanden2/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/fr/tags/</loc>
+    <lastmod>2020-07-31T10:20:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/"
+                />
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/fr/music/getrommelt/</loc>
-    <lastmod>2019-07-13T10:20:30+01:00</lastmod>
+    <lastmod>2019-08-24T10:20:30+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -59,6 +99,26 @@
                 rel="alternate"
                 hreflang="fr"
                 href="http://localhost:1313/fr/misc/vernissage/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/fr/categories/</loc>
+    <lastmod>2018-02-12T22:41:36+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/categories/"
                 />
   </url>
   
@@ -303,6 +363,26 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/fr/about/</loc>
+    <lastmod>2017-10-14T10:05:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/about/"
+                />
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/fr/about/about/</loc>
     <lastmod>2017-10-14T10:05:00+02:00</lastmod>
     <xhtml:link
@@ -399,90 +479,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="http://localhost:1313/fr/misc/humidifier/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/fr/categories/</loc>
-    <lastmod>2019-07-13T10:20:30+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/fr/about/</loc>
-    <lastmod>2017-10-14T10:05:00+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/about/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/fr/categories/</loc>
-    <lastmod>2017-10-22T22:08:24+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/fr/tags/</loc>
-    <lastmod>2017-10-22T22:08:24+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/tags/"
                 />
   </url>
   

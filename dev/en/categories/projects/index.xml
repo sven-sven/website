@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projekte on Sven Oloff</title>
@@ -9,6 +9,24 @@
     
 	<atom:link href="http://localhost:1313/en/categories/projects/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>die Idee</title>
+      <link>http://localhost:1313/en/arch/idee-denken/</link>
+      <pubDate>Mon, 12 Feb 2018 22:41:36 +0200</pubDate>
+      
+      <guid>http://localhost:1313/en/arch/idee-denken/</guid>
+      <description>Inhalt Auftakt Jahreszeiten [die Idee](#die Idee) [hinter der Oberfläche](#hinter der Oberfläche) [im sozialen Kontext](#im sozialen Kontext) Denken</description>
+    </item>
+    
+    <item>
+      <title>vor den Jahreszeiten</title>
+      <link>http://localhost:1313/en/photo/beforeseasons/</link>
+      <pubDate>Fri, 16 Sep 2016 13:53:10 +0200</pubDate>
+      
+      <guid>http://localhost:1313/en/photo/beforeseasons/</guid>
+      <description> * { border-radius: 0 !important; } .grid-img { padding: 10px; } .modal-backdrop { background-color: #fffff0; opacity: .95 !important; } .modal-content { width: 80%; padding: 0%; margin: auto; } }       function showModal(imgUrl) { var attr1 = &#39; class=&#34;img-responsive center-block&#34;&#39;; var attr2 = &#39; style=&#34;padding: 0px; margin: 0px; vertical-align: middle;&#34;&#39;; var img= &#39;&#39;; $(&#39;#showModal .modal-body&#39;).html(img); $(&#39;#showModal&#39;).modal(&#39;show&#39;); }  </description>
+    </item>
     
   </channel>
 </rss>
