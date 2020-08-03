@@ -18,7 +18,7 @@ categories: ["Projects"]
 [<h6>Denken</h6>](#Denken)
 
 
-<br>
+<br />
 #### Auftakt <a id="Auftakt" ></a>
 Ich präsentiere mich mit der Fotoreihe [„vor den Jahreszeiten“]({{< relref "/photo/beforeseasons" >}}) nicht als Fotograf. Auch steht das einzelne Foto nicht im Vordergrund, sondern die Serie der Bilder. Sie sind ursprünglich nicht mit der Absicht der Veröffentlichung entstanden. Anregungen von außen stießen das Projekt einer Fotoausstellung an. Es begann zunächst mit den Bildern des späten Winters und ich musste mir zunächst selbst darüber klar werden, was mich eigentlich faszinierte.  
 Es war der Moment, bevor die neue Jahreszeit beginnt. In der Musik ist es der kaum sichtbare Auftakt zum Spielbeginn. Eigentlich sogar der Auftakt zum Auftakt. Dem hörbaren Auftakt in der Musik würde hier das erste erscheinende Blatt entsprechen, doch darum geht es hier nicht. Der sogenannte „Vormoment“ ist noch davor, eine Geste, ein Atemholen vor dem ersten Ton. Dieser selbst kaum in Erscheinung tretende Vormoment bestimmt schon das Kommende, bevor es in Erscheinung tritt und trägt dennoch schon alles in sich. Dem agierenden Musiker auf der einen Seite entspricht hier der passive Beobachter der Natur.  

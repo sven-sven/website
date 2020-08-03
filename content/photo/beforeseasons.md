@@ -9,15 +9,14 @@ tags: ["idea"]
 categories: [""]
 ---
 
-<br>
-<br>
-<br>
+<br />
+
 {{< image class="image thumbnail" src="/img/beforeseasons/Sven_Oloff-a-lake.jpg" alt="Sven Oloff Idee See">}}  
 
-<br>
-<br>
-<br>
+<br />
+
 Der Tag vor dem Frühling. Wenn das Licht schon kraftvoll ist und alles in der Natur noch wie gebleicht ist, scheint es nur eine Frage des Momentes zu sein, dass das erste Blatt erscheint. Nicht im ersten Anzeichen des Frühjahrs liegt das Besondere, sondern in der Vorahnung.  
+
 {{< img-grid2
     src1="/img/beforeseasons/Sven_Oloff-b-roots.jpg"
         alt1="Sven Oloff Idee Wurzeln" 
@@ -31,10 +30,10 @@ Der Tag vor dem Frühling. Wenn das Licht schon kraftvoll ist und alles in der N
         alt2="Sven Oloff Idee Winterschilf" 
 >}} 
 
-<br>
-<br>
-<br>
+<br />
+
 Es ist die Idee, die wirkt. Sie sichtbar zu machen heißt, das Unsichtbare darzustellen. Noch ist Licht im Wald, bevor sich das Blätterdach schließt. Ein Nebel aus Gras und kommende Wärme.
+
 {{< img-grid2
     src1="/img/beforeseasons/Sven_Oloff-f-springfield.jpg"
         alt1="Sven Oloff Idee Frühlingsacker" 
@@ -48,10 +47,8 @@ Es ist die Idee, die wirkt. Sie sichtbar zu machen heißt, das Unsichtbare darzu
         alt2="Sven Oloff Idee Tau" 
 >}}
 
+<br />
 
-<br>
-<br>
-<br>
 In der Lethargie des Sommers, alles grün, entsteht die Erwartung von Farbe und Dynamik des Herbstes.
 {{< img-grid2
     src1="/img/beforeseasons/Sven_Oloff-k-pond2.jpg"
@@ -66,9 +63,8 @@ In der Lethargie des Sommers, alles grün, entsteht die Erwartung von Farbe und 
         alt2="Sven Oloff Idee Acker 2" 
 >}}
 
-<br>
-<br>
-<br>
+<br />
+
 Schließlich schwindet das Licht und in der Spiegelung legen sich die Perspektiven voraus und zurück übereinander.
 {{< img-grid2
     src1="/img/beforeseasons/Sven_Oloff-o-twilight1.jpg"
@@ -83,9 +79,8 @@ Schließlich schwindet das Licht und in der Spiegelung legen sich die Perspektiv
         alt2="Sven Oloff Idee unter der Brücke" 
 >}}
 
-<br>
-<br>
-<br>
+<br />
+
 Ein ausführlicherer Text zur Fotoreihe ist im Artikel [die Idee]({{< ref "arch/idee-denken.md" >}}) zu finden.
 {{< image class="image thumbnail" src="/img/beforeseasons/Sven_Oloff-s-rhein.jpg" alt="Sven OLoff Idee Rhein">}}
 
