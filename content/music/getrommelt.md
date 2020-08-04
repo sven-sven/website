@@ -12,8 +12,10 @@ Der Klang des Violoncellos erreicht das menschliche Ohr ganz unmittelbar. Wenn s
 Die Tonlage des Instrumentes liegt nahe an der des Menschen und auch die "Körperlichkeiten" sind sich nicht so fern. Mit dem Klang des Cellos findet eine innere Vielstimmigkeit mit Leichtigkeit ihren Ausdruck.
 
 Experimentierfreude und Violoncello – das ist eines.   
-Neben Melodie und klanglicher Vielfalt stehen rhythmische und perkussive Möglichkeiten. Das bedeutet allerdings, sich mit dem Ohr ganz nahe an das Instrument zu begeben. Die folgenden Stücke benötigen keine elektronischen Effekte oder Loops.
+Neben Melodie und klanglicher Vielfalt stehen rhythmische und perkussive Möglichkeiten. Das bedeutet allerdings, sich mit dem Ohr ganz nahe an das Instrument zu begeben. Die folgenden Stücke benötigen keine elektronischen Effekte oder Loops.  
 
-{{< youtube "6UMN016OnwE" >}}
-<br><br>
-{{< youtube "rEMza6FIQ8g" >}}
+{{< youtube "6UMN016OnwE" >}}  
+
+<br />
+
+{{< youtube "rEMza6FIQ8g" >}}  

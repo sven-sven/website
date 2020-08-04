@@ -14,19 +14,20 @@ Grundsätzlich ist es zumindest fragwürdig, eine Suite zu zerreißen. Jeder Sat
 
 Eine herausragende kompositorische Qualität der Violoncello-Suiten von Bach ist sicher ihre große Gestaltbarkeit und so gibt es nicht die eine richtige Interpretation. In der Regel wird von verschiedenen Cellisten oder in verschiedenen Arbeitsphasen eine Sichtweise auf alle Suiten präsentiert. Das Experiment hier soll darin bestehen, nicht den Suiten entlang zu folgen, sondern den Blick quer dazu auf die Sarabanden zu richten. Ein Experiment, die Unterschiedlichkeit der Sarabanden ohne ihre Einbindung in der Tanzfolge zu betrachten und zu entwickeln.  
 
-<br>
+<br />
 
 #### Ein Universum in vier Takten  
 Ganz in der Linie bewegt sich die erste Suite in G-dur. Auch in ihrer Innensicht, der Sarabande, wird der Hörer durch die Melodie eingenommen und geführt. Die Akkorde wirken eher als sanfte Streichbewegung denn als entwickelte Mehrstimmigkeit. Auffällig ist die Komplexität schon in den ersten vier Takten. Die eröffnenden beiden Klänge brauchen Zeit. Zeit für den freien Klang der leeren Saiten und die weite und weiche Bewegung des Bogens. Die erste Melodielinie mündet im zweiten Takt in die typisch gewichtende Verzierung auf dem zweiten Schritt. Erst jetzt beginnt das eigentliche Tempo, das Gehen. Würde man dem notierten Metrum folgen, so ergäbe sich, und in fast allen Interpretationen ist das so, eine sehr unschlüssige Melodielinie. Erst wenn man die Takte zwei und drei nicht als zweimal 3 Viertel, sondern als 3 Halbe interpretiert, bekommt sie einen Sinn. Mit dem vierten Takt schließt sich der erste größere (Halb-) Bogen der Melodie im normalen, notierten 3/4 Takt. Eine musikalische Architektur, die komplex ist, aber nicht kompliziert wirkt, sondern natürlich. Auch an anderen Stellen der ersten und der dritten Sarabande sehe ich diese Konstruktion.  
 
 {{< image class="image thumbnail" src="/img/kik-poster/Bach-Sarabande-Sven-Oloff-G_dur.jpg" alt="Architektur Sarabande BWV 1007">}}
 
-<audio src='/img/kik-poster/Anfang_1007.opus' controls>
-</audio>  
-<br>
+{{< audio "/img/kik-poster/Anfang_1007.opus" >}}
+
+<br />
 
 {{< youtube "MAZoyLly_7k" >}}
-<br>
+
+<br />
 
 #### Klangfarbe und Transparenz  
 Größte klangliche Differenzierung lässt sich in der zweiten Suite in d-moll entwickeln. Das gelingt, physikalisch konsequent, im Leisen. Sie wirkt geheimnisvoll ohne Traurigkeit, in den Farben impressionistisch. Satter Klang und langsames Tempo sind eigentlich fehl am Platz. Trotz reibungsvoller Akkorde bleibt alles in leichter, tänzerischer Bewegung. Die Zielpunkte der Melodiebögen wechseln über die gesamte Sarabande zwischen dem ersten Schritt des Taktes und dem tanztypischen zweiten Schritt.  
@@ -34,18 +35,18 @@ Der Ausführung von Akkorden und Mehrstimmigkeit sind keine Grenzen gesetzt. Und
 
 {{< image class="image thumbnail" src="/img/kik-poster/Bach-Sarabande-Sven-Oloff-d_moll.jpg" alt="Architektur Sarabande BWV 1008">}}
 
-<audio src='/img/kik-poster/Anfang_1008.opus' controls>
-</audio>  
-<br>
+{{< audio "/img/kik-poster/Anfang_1008.opus" >}}
+
+<br />
 
 {{< youtube "HY_TCE-N7as" >}}
-<br>
+
+<br />
 
 #### Kraft und Dynamik  
 Ganz im Kontrast zur zweiten Suite, erscheint die Dritte in C-dur kraftvoll und expressionistisch. Die Entdeckung und Entwicklung des Violoncellos erfährt hier seine dynamische Seite. Schon die ersten Akkorde selbst, zu Beginn der Sarabande, fordern zur dynamischen Ausgestaltung auf - mit der Kraft einer Woge.  
 
 Die Auffächerung in einen nach innen gerichteten und einen nach außen gerichteten Aspekt in der zweiten und dritten Suite unterstreicht rückblickend noch einmal die natürliche Einheit der ersten Suite. Das mag auch erklären, warum sie so eingängig ist und sich kein Ohr vor ihr verschließt.  
-
 
 {{< youtube "dk5a2p7D02U" >}}
 

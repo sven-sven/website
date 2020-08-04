@@ -15,5 +15,7 @@ Experimentierfreude und Violoncello – das ist eines.
 Neben Melodie und klanglicher Vielfalt stehen rhythmische und perkussive Möglichkeiten. Das bedeutet allerdings, sich mit dem Ohr ganz nahe an das Instrument zu begeben. Die folgenden Stücke benötigen keine elektronischen Effekte oder Loops.
 
 {{< youtube "6UMN016OnwE" >}}
-<br><br>
+
+<br />
+
 {{< youtube "rEMza6FIQ8g" >}}
