@@ -15,18 +15,18 @@ Die ausgiebige Suche führt zu einer einfachen Lösung: Streichinstrumente könn
 
 Die folgenden Bilder dokumentieren eine sehr einfache, effektive und fast kostenlose Möglichkeit zur Regulierung der Luftfeuchte. Die offenporigen Hochlochziegel aus Ton nehmen sehr schnell viel Wasser auf und geben es langsam an die warme Luft, die von der Heizung durch die Löcher strömt, ab.
 
-<br>
-<br>
+<br />
+
 in Funktion:
 {{< image class="image thumbnail" src="/img/humidifier/Sven_Oloff-cello-humidifier-1c.jpg" alt="Sven Oloff Cello Luftbefeuchter komplett">}}
 
-<br>
-<br>
+<br />
+
 zum Schutz des Heizkörpers:
 {{< image class="image thumbnail" src="/img/humidifier/Sven_Oloff-cello-humidifier-2c.jpg" alt="Sven Oloff Cello Luftbefeuchter Schutz">}}
 
-<br>
-<br>
+<br />
+
 einmal wenden:
 {{< image class="image thumbnail" src="/img/humidifier/Sven_Oloff-cello-humidifier-3c.jpg" alt="Sven Oloff Cello Luftbefeuchter Wasser">}}
 
